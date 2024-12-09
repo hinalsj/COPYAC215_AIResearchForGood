@@ -35,10 +35,12 @@ def retrieve_metadata(source, metadata_file="arxiv_social_impact_papers.json"):
     """Retrieve metadata (title, summary, authors) for a paper from the metadata JSON file."""
     with open(metadata_file, "r") as f:
         metadata = json.load(f)
+
     for paper in metadata:
-        if source in paper["paper_id"]:
-            return paper["title"], paper["summary"], paper["authors"]
-    return None, None, None
+        id = source.strip('.txt').strip('/tmp/')
+        if id in paper["paper_id"]:
+            return paper["title"], paper["summary"], paper["authors"], paper["paper_id"]
+    return None, None, None,None
 
 
 def retrieve_documents(query, persist_directory, model_name, metadata_file="arxiv_social_impact_papers.json"):
@@ -56,13 +58,14 @@ def retrieve_documents(query, persist_directory, model_name, metadata_file="arxi
         page_content = result.page_content
         
         # Retrieve metadata
-        title, summary, authors = retrieve_metadata(source, metadata_file)
+        title, summary, authors, url = retrieve_metadata(source, metadata_file)
         if title and summary:
             prompt = {
                 "title": title,
                 "summary": summary,
                 "authors": authors,
-                "page_content": page_content
+                "page_content": page_content,
+                "url": url
             }
             documents.append(prompt)
 
@@ -98,23 +101,25 @@ def rank_and_filter_documents(query, documents, project_id, location, model_endp
 
 def generate_answer_google(documents, query, project_id, location, model_id, creds):
     """
-    Generate an answer with structured output combining title, summary, authors, and page content.
+    Generate an answer with structured output combining title, summary, authors, page content, and URL.
     """
     structured_docs = "\n\n".join(
         f"""Title: {doc['title']}
-Summary: {doc['summary']}
-Authors: {', '.join(doc['authors']) if doc['authors'] else 'Unknown'}
-Page Content: {doc['page_content']}
-        """
+        Summary: {doc['summary']}
+        Authors: {', '.join(doc['authors']) if doc['authors'] else 'Unknown'}
+        Relevant Chunk: {doc['page_content']}
+        Paper URL: {doc['url']}
+                """
         for doc in documents
     )
+    
     prompt = f"""\nYou are a helpful assistant working for Global Tech Colab For Good, an organization that helps connect non-profit organizations to relevant technical research papers. 
             The following is a query from the non-profit:
             {query}
             We have retrieved the following papers that are relevant to this non-profit's request query. 
             {structured_docs}
-            Your job is to provide in a digestible manner the title of the paper(s), their summaries, and how the papers can be used by the non-profit to help with their query. 
-            Ensure your answer is structured, clear, and user-friendly.
+            Your job is to provide in a digestible manner the title of the paper(s), their summaries, their URLs, and how the papers can be used by the non-profit to help with their query. 
+            Ensure your answer is structured, clear, and user-friendly, and include the Paper URL in your response for each paper.
             """
 
     vertexai.init(project=project_id, location=location, credentials=creds)
@@ -122,35 +127,32 @@ Page Content: {doc['page_content']}
 
     response = model.generate_content(prompt)
     print(response.text)
-    return response.text
+    return prompt, response.text
 
 
 def main(query):
     info = json.loads(st.secrets['secrets_str_1'])
     info["private_key"] = info["private_key"].replace("\\n", "\n")
-
     creds = service_account.Credentials.from_service_account_info(info)
     bucket_name = 'paper-rec-bucket'
     destination_folder = 'paper_vector_db'
     folder_prefix = 'paper_vector_db/'
-    persist_directory = 'gs://paper-rec-bucket/paper_vector_db/'
+    persist_directory = 'paper_vector_db/'
     model_name = "sentence-transformers/all-MiniLM-L6-v2"
 
     PROJECT_ID = "ai-research-for-good"
     LOCATION = "us-central1"
-    MODEL_ID = "gemini-1.5-pro"
+    MODEL_ID = "gemini-1.5-flash"
     MODEL_ENDPOINT = "projects/129349313346/locations/us-central1/endpoints/3319822527953371136"
 
     download_files_from_bucket(bucket_name, folder_prefix, destination_folder, creds)
 
     documents = retrieve_documents(query, persist_directory, model_name)
 
-    top_documents = rank_and_filter_documents(query, documents, PROJECT_ID, LOCATION, MODEL_ENDPOINT, creds)
-
-    answer = generate_answer_google(
-        top_documents, query, PROJECT_ID, LOCATION, MODEL_ID, creds
+    # top_documents = rank_and_filter_documents(query, documents, PROJECT_ID, LOCATION, MODEL_ENDPOINT, creds)
+    prompt, answer = generate_answer_google(
+        documents, query, PROJECT_ID, LOCATION, MODEL_ID, creds
     )
-
     return answer
 
 
