@@ -187,7 +187,7 @@ def main(query):
         bucket_name = 'paper-rec-bucket'
         destination_folder = 'paper_vector_db'
         folder_prefix = 'paper_vector_db/'
-        persist_directory = 'paper_vector_db_local/'
+        persist_directory = 'paper_vector_db/'
         model_name = "sentence-transformers/all-MiniLM-L6-v2"
 
         PROJECT_ID = "ai-research-for-good"
