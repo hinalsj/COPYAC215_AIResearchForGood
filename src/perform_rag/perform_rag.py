@@ -52,6 +52,8 @@ def retrieve_documents(query, persist_directory, model_name, metadata_file="arxi
     )
 
     results = db.similarity_search(query, k=5)
+    st.write("persist directory", persist_directory)
+    st.write(len(results), "number")
     documents = []
     for result in results:
         source = result.metadata['source']
