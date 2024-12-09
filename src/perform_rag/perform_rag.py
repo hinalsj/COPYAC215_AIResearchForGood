@@ -93,6 +93,7 @@ def main(query):
     st.write(info)
     info["private_key"] = info["private_key"].replace("\\n", "\n")
 
+
     creds = service_account.Credentials.from_service_account_info(info)
     
     bucket_name = 'paper-rec-bucket'
@@ -104,11 +105,17 @@ def main(query):
     PROJECT_ID = "ai-research-for-good"
     LOCATION = "us-central1"
     MODEL_ID = "gemini-1.5-pro"
+    
 
     #query = "AI for social impact"
 
     download_files_from_bucket(bucket_name, folder_prefix, destination_folder, creds)
+    st.write(f"Working directory: {os.getcwd()}")
+    st.write("Files in working directory:")
+    st.write(os.listdir('.'))
+
     documents = retrieve_documents(query, persist_directory, model_name)
+    
     # print(documents)
     answer = generate_answer_google(documents, query, PROJECT_ID, LOCATION, MODEL_ID, creds)
 
