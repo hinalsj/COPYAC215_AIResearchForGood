@@ -1,0 +1,3436 @@
+[
+  {
+    "title": "Fairness in Influence Maximization through Randomization",
+    "summary": "The influence maximization paradigm has been used by researchers in various",
+    "paper_id": "http://arxiv.org/abs/2010.03438v4",
+    "authors": [
+      "Ruben Becker",
+      "Gianlorenzo D'Angelo",
+      "Sajjad Ghobadi",
+      "Hugo Gilbert"
+    ],
+    "published_date": "2020-10-07T14:28:40Z"
+  },
+  {
+    "title": "What is online citizen science anyway? An educational perspective",
+    "summary": "In this paper we seek to contribute to the debate about the nature of citizen",
+    "paper_id": "http://arxiv.org/abs/1805.00441v1",
+    "authors": [
+      "Cathal Doyle",
+      "Yevgeniya Li",
+      "Markus Luczak-Roesch",
+      "Dayle Anderson",
+      "Brigitte Glasson",
+      "Matthew Boucher",
+      "Carol Brieseman",
+      "Dianne Christenson",
+      "Melissa Coton"
+    ],
+    "published_date": "2018-04-20T01:49:09Z"
+  },
+  {
+    "title": "Machine Learning for Glacier Monitoring in the Hindu Kush Himalaya",
+    "summary": "Glacier mapping is key to ecological monitoring in the hkh region. Climate",
+    "paper_id": "http://arxiv.org/abs/2012.05013v1",
+    "authors": [
+      "Shimaa Baraka",
+      "Benjamin Akera",
+      "Bibek Aryal",
+      "Tenzing Sherpa",
+      "Finu Shresta",
+      "Anthony Ortiz",
+      "Kris Sankaran",
+      "Juan Lavista Ferres",
+      "Mir Matin",
+      "Yoshua Bengio"
+    ],
+    "published_date": "2020-12-09T12:48:06Z"
+  },
+  {
+    "title": "Real-time Tropical Cyclone Intensity Estimation by Handling Temporally",
+    "summary": "Analyzing big geophysical observational data collected by multiple advanced",
+    "paper_id": "http://arxiv.org/abs/2010.14977v1",
+    "authors": [
+      "Boyo Chen",
+      "Buo-Fu Chen",
+      "Yun-Nung Chen"
+    ],
+    "published_date": "2020-10-28T13:40:07Z"
+  },
+  {
+    "title": "Detection and Prediction of Nutrient Deficiency Stress using",
+    "summary": "Early, precise detection of nutrient deficiency stress (NDS) has key economic",
+    "paper_id": "http://arxiv.org/abs/2012.09654v2",
+    "authors": [
+      "Saba Dadsetan",
+      "Gisele Rose",
+      "Naira Hovakimyan",
+      "Jennifer Hobbs"
+    ],
+    "published_date": "2020-12-17T15:06:15Z"
+  },
+  {
+    "title": "Graph Learning for Inverse Landscape Genetics",
+    "summary": "The problem of inferring unknown graph edges from numerical data at a graph's",
+    "paper_id": "http://arxiv.org/abs/2006.12334v3",
+    "authors": [
+      "Prathamesh Dharangutte",
+      "Christopher Musco"
+    ],
+    "published_date": "2020-06-22T15:26:30Z"
+  },
+  {
+    "title": "Improving Access to Housing and Supportive Services for Runaway and",
+    "summary": "Recent estimates indicate that there are over 1 million runaway and homeless",
+    "paper_id": "http://arxiv.org/abs/2202.00138v3",
+    "authors": [
+      "Yaren Bilge Kaya",
+      "Kayse Lee Maass",
+      "Geri L. Dimas",
+      "Renata Konrad",
+      "Andrew C. Trapp",
+      "Meredith Dank"
+    ],
+    "published_date": "2022-01-31T22:56:32Z"
+  },
+  {
+    "title": "Using Radio Archives for Low-Resource Speech Recognition: Towards an",
+    "summary": "For many of the 700 million illiterate people around the world, speech",
+    "paper_id": "http://arxiv.org/abs/2104.13083v1",
+    "authors": [
+      "Moussa Doumbouya",
+      "Lisa Einstein",
+      "Chris Piech"
+    ],
+    "published_date": "2021-04-27T10:09:34Z"
+  },
+  {
+    "title": "A nested mixture model for protein identification using mass",
+    "summary": "Mass spectrometry provides a high-throughput way to identify proteins in",
+    "paper_id": "http://arxiv.org/abs/1011.2087v1",
+    "authors": [
+      "Qunhua Li",
+      "Michael J. MacCoss",
+      "Matthew Stephens"
+    ],
+    "published_date": "2010-11-09T13:55:30Z"
+  },
+  {
+    "title": "Predicting Rapid Fire Growth (Flashover) Using Conditional Generative",
+    "summary": "A flashover occurs when a fire spreads very rapidly through crevices due to",
+    "paper_id": "http://arxiv.org/abs/1801.09804v1",
+    "authors": [
+      "Kyongsik Yun",
+      "Jessi Bustos",
+      "Thomas Lu"
+    ],
+    "published_date": "2018-01-30T00:09:48Z"
+  },
+  {
+    "title": "On the Legal Compatibility of Fairness Definitions",
+    "summary": "Past literature has been effective in demonstrating ideological gaps in",
+    "paper_id": "http://arxiv.org/abs/1912.00761v1",
+    "authors": [
+      "Alice Xiang",
+      "Inioluwa Deborah Raji"
+    ],
+    "published_date": "2019-11-25T21:28:46Z"
+  },
+  {
+    "title": "Abusive Language Detection in Heterogeneous Contexts: Dataset Collection",
+    "summary": "Abusive language is a massive problem in online social platforms. Existing",
+    "paper_id": "http://arxiv.org/abs/2105.11119v1",
+    "authors": [
+      "Hongyu Gong",
+      "Alberto Valido",
+      "Katherine M. Ingram",
+      "Giulia Fanti",
+      "Suma Bhat",
+      "Dorothy L. Espelage"
+    ],
+    "published_date": "2021-05-24T06:50:19Z"
+  },
+  {
+    "title": "Project RISE: Recognizing Industrial Smoke Emissions",
+    "summary": "Industrial smoke emissions pose a significant concern to human health. Prior",
+    "paper_id": "http://arxiv.org/abs/2005.06111v9",
+    "authors": [
+      "Yen-Chia Hsu",
+      "Ting-Hao 'Kenneth' Huang",
+      "Ting-Yao Hu",
+      "Paul Dille",
+      "Sean Prendi",
+      "Ryan Hoffman",
+      "Anastasia Tsuhlares",
+      "Jessica Pachuta",
+      "Randy Sargent",
+      "Illah Nourbakhsh"
+    ],
+    "published_date": "2020-05-13T01:51:15Z"
+  },
+  {
+    "title": "Subverting Privacy-Preserving GANs: Hiding Secrets in Sanitized Images",
+    "summary": "Unprecedented data collection and sharing have exacerbated privacy concerns",
+    "paper_id": "http://arxiv.org/abs/2009.09283v1",
+    "authors": [
+      "Kang Liu",
+      "Benjamin Tan",
+      "Siddharth Garg"
+    ],
+    "published_date": "2020-09-19T19:02:17Z"
+  },
+  {
+    "title": "Mitigating Political Bias in Language Models Through Reinforced",
+    "summary": "Current large-scale language models can be politically biased as a result of",
+    "paper_id": "http://arxiv.org/abs/2104.14795v1",
+    "authors": [
+      "Ruibo Liu",
+      "Chenyan Jia",
+      "Jason Wei",
+      "Guangxuan Xu",
+      "Lili Wang",
+      "Soroush Vosoughi"
+    ],
+    "published_date": "2021-04-30T07:21:30Z"
+  },
+  {
+    "title": "2-State 3-Symbol Universal Turing Machines Do Not Exist",
+    "summary": "In this brief note, we give a simple information-theoretic proof that 2-state",
+    "paper_id": "http://arxiv.org/abs/0706.4440v5",
+    "authors": [
+      "Craig Alan Feinstein"
+    ],
+    "published_date": "2007-06-29T16:47:40Z"
+  },
+  {
+    "title": "We Don't Speak the Same Language: Interpreting Polarization through",
+    "summary": "Polarization among US political parties, media and elites is a widely studied",
+    "paper_id": "http://arxiv.org/abs/2010.02339v2",
+    "authors": [
+      "Ashiqur R. KhudaBukhsh",
+      "Rupak Sarkar",
+      "Mark S. Kamlet",
+      "Tom M. Mitchell"
+    ],
+    "published_date": "2020-10-05T21:16:30Z"
+  },
+  {
+    "title": "Components of Machine Learning: Binding Bits and FLOPS",
+    "summary": "Many machine learning problems and methods are combinations of three",
+    "paper_id": "http://arxiv.org/abs/1910.12387v2",
+    "authors": [
+      "Alexander Jung"
+    ],
+    "published_date": "2019-10-25T17:33:33Z"
+  },
+  {
+    "title": "Helping university students to choose elective courses by using a hybrid",
+    "summary": "The wide availability of specific courses together with the flexibility of",
+    "paper_id": "http://arxiv.org/abs/2402.08371v1",
+    "authors": [
+      "A. Esteban",
+      "A. Zafra",
+      "C. Romero"
+    ],
+    "published_date": "2024-02-13T11:02:12Z"
+  },
+  {
+    "title": "Minimizing Energy Use of Mixed-Fleet Public Transit for Fixed-Route",
+    "summary": "Affordable public transit services are crucial for communities since they",
+    "paper_id": "http://arxiv.org/abs/2004.05146v4",
+    "authors": [
+      "Amutheezan Sivagnanam",
+      "Afiya Ayman",
+      "Michael Wilbur",
+      "Philip Pugliese",
+      "Abhishek Dubey",
+      "Aron Laszka"
+    ],
+    "published_date": "2020-04-10T17:45:14Z"
+  },
+  {
+    "title": "How Do Pedophiles Tweet? Investigating the Writing Styles and Online",
+    "summary": "One of the most important humanitarian responsibility of every individual is",
+    "paper_id": "http://arxiv.org/abs/2107.09881v1",
+    "authors": [
+      "Joseph Marvin Imperial"
+    ],
+    "published_date": "2021-07-21T05:26:52Z"
+  },
+  {
+    "title": "Clinical trial of an AI-augmented intervention for HIV prevention in",
+    "summary": "Youth experiencing homelessness (YEH) are subject to substantially greater",
+    "paper_id": "http://arxiv.org/abs/2009.09559v2",
+    "authors": [
+      "Bryan Wilder",
+      "Laura Onasch-Vera",
+      "Graham Diguiseppi",
+      "Robin Petering",
+      "Chyna Hill",
+      "Amulya Yadav",
+      "Eric Rice",
+      "Milind Tambe"
+    ],
+    "published_date": "2020-09-21T01:21:40Z"
+  },
+  {
+    "title": "Modeling the Field Value Variations and Field Interactions",
+    "summary": "With the explosive growth of e-commerce, online transaction fraud has become",
+    "paper_id": "http://arxiv.org/abs/2008.05600v2",
+    "authors": [
+      "Dongbo Xi",
+      "Bowen Song",
+      "Fuzhen Zhuang",
+      "Yongchun Zhu",
+      "Shuai Chen",
+      "Tianyi Zhang",
+      "Yuan Qi",
+      "Qing He"
+    ],
+    "published_date": "2020-08-08T18:44:00Z"
+  },
+  {
+    "title": "Distributional Regression U-Nets for the Postprocessing of Precipitation",
+    "summary": "Accurate precipitation forecasts have a high socio-economic value due to",
+    "paper_id": "http://arxiv.org/abs/2407.02125v1",
+    "authors": [
+      "Romain Pic",
+      "Cl\u00e9ment Dombry",
+      "Philippe Naveau",
+      "Maxime Taillardat"
+    ],
+    "published_date": "2024-07-02T10:16:04Z"
+  },
+  {
+    "title": "Dual-Mandate Patrols: Multi-Armed Bandits for Green Security",
+    "summary": "Conservation efforts in green security domains to protect wildlife and",
+    "paper_id": "http://arxiv.org/abs/2009.06560v3",
+    "authors": [
+      "Lily Xu",
+      "Elizabeth Bondi",
+      "Fei Fang",
+      "Andrew Perrault",
+      "Kai Wang",
+      "Milind Tambe"
+    ],
+    "published_date": "2020-09-14T16:40:44Z"
+  },
+  {
+    "title": "Predicting Forest Fire Using Remote Sensing Data And Machine Learning",
+    "summary": "Over the last few decades, deforestation and climate change have caused",
+    "paper_id": "http://arxiv.org/abs/2101.01975v1",
+    "authors": [
+      "Suwei Yang",
+      "Massimo Lupascu",
+      "Kuldeep S. Meel"
+    ],
+    "published_date": "2021-01-06T11:22:55Z"
+  },
+  {
+    "title": "LSTM recurrent neural network assisted aircraft stall prediction for",
+    "summary": "Since the dawn of mankind's introduction to powered flights, there have been",
+    "paper_id": "http://arxiv.org/abs/2012.04876v1",
+    "authors": [
+      "Tahsin Sejat Saniat",
+      "Tahiat Goni",
+      "Shaikat M. Galib"
+    ],
+    "published_date": "2020-12-09T05:46:30Z"
+  },
+  {
+    "title": "Graph Representation Learning for Merchant Incentive Optimization in",
+    "summary": "Mobile payment such as Alipay has been widely used in our daily lives. To",
+    "paper_id": "http://arxiv.org/abs/2003.01515v1",
+    "authors": [
+      "Ziqi Liu",
+      "Dong Wang",
+      "Qianyu Yu",
+      "Zhiqiang Zhang",
+      "Yue Shen",
+      "Jian Ma",
+      "Wenliang Zhong",
+      "Jinjie Gu",
+      "Jun Zhou",
+      "Shuang Yang",
+      "Yuan Qi"
+    ],
+    "published_date": "2020-02-27T18:48:55Z"
+  },
+  {
+    "title": "Graph-Partitioning-Based Diffusion Convolutional Recurrent Neural",
+    "summary": "Traffic forecasting approaches are critical to developing adaptive strategies",
+    "paper_id": "http://arxiv.org/abs/1909.11197v4",
+    "authors": [
+      "Tanwi Mallick",
+      "Prasanna Balaprakash",
+      "Eric Rask",
+      "Jane Macfarlane"
+    ],
+    "published_date": "2019-09-24T21:38:29Z"
+  },
+  {
+    "title": "Multi-Graph Convolutional-Recurrent Neural Network (MGC-RNN) for",
+    "summary": "Short-term forecasting of passenger flow is critical for transit management",
+    "paper_id": "http://arxiv.org/abs/2107.13226v2",
+    "authors": [
+      "Yuxin He",
+      "Lishuai Li",
+      "Xinting Zhu",
+      "Kwok Leung Tsui"
+    ],
+    "published_date": "2021-07-28T08:41:12Z"
+  },
+  {
+    "title": "Heterogeneous Graph Neural Networks with Post-hoc Explanations for",
+    "summary": "Urban land use inference is a critically important task that aids in city",
+    "paper_id": "http://arxiv.org/abs/2406.13724v1",
+    "authors": [
+      "Xuehao Zhai",
+      "Junqi Jiang",
+      "Adam Dejl",
+      "Antonio Rago",
+      "Fangce Guo",
+      "Francesca Toni",
+      "Aruna Sivakumar"
+    ],
+    "published_date": "2024-06-19T17:39:10Z"
+  },
+  {
+    "title": "Conditional Synthetic Data Generation for Robust Machine Learning",
+    "summary": "$\\textbf{Background:}$ At the onset of a pandemic, such as COVID-19, data",
+    "paper_id": "http://arxiv.org/abs/2109.06486v1",
+    "authors": [
+      "Hari Prasanna Das",
+      "Ryan Tran",
+      "Japjot Singh",
+      "Xiangyu Yue",
+      "Geoff Tison",
+      "Alberto Sangiovanni-Vincentelli",
+      "Costas J. Spanos"
+    ],
+    "published_date": "2021-09-14T07:30:54Z"
+  },
+  {
+    "title": "Socially Fair Mitigation of Misinformation on Social Networks via",
+    "summary": "Recent social networks' misinformation mitigation approaches tend to",
+    "paper_id": "http://arxiv.org/abs/2203.12537v1",
+    "authors": [
+      "Ahmed Abouzeid",
+      "Ole-Christoffer Granmo",
+      "Christian Webersik",
+      "Morten Goodwin"
+    ],
+    "published_date": "2022-03-23T16:58:33Z"
+  },
+  {
+    "title": "Personalized Public Policy Analysis in Social Sciences using",
+    "summary": "Structural Equation/Causal Models (SEMs/SCMs) are widely used in epidemiology",
+    "paper_id": "http://arxiv.org/abs/2202.03281v2",
+    "authors": [
+      "Sourabh Balgi",
+      "Jose M. Pena",
+      "Adel Daoud"
+    ],
+    "published_date": "2022-02-07T15:14:41Z"
+  },
+  {
+    "title": "Interpretable Low-Resource Legal Decision Making",
+    "summary": "Over the past several years, legal applications of deep learning have been on",
+    "paper_id": "http://arxiv.org/abs/2201.01164v1",
+    "authors": [
+      "Rohan Bhambhoria",
+      "Hui Liu",
+      "Samuel Dahan",
+      "Xiaodan Zhu"
+    ],
+    "published_date": "2022-01-01T20:34:35Z"
+  },
+  {
+    "title": "Deep Learning Approach for Early Stage Lung Cancer Detection",
+    "summary": "Lung cancer is the leading cause of death among different types of cancers.",
+    "paper_id": "http://arxiv.org/abs/2302.02456v2",
+    "authors": [
+      "Saleh Abunajm",
+      "Nelly Elsayed",
+      "Zag ElSayed",
+      "Murat Ozer"
+    ],
+    "published_date": "2023-02-05T18:50:12Z"
+  },
+  {
+    "title": "Gender Bias in Multilingual Neural Machine Translation: The Architecture",
+    "summary": "Multilingual Neural Machine Translation architectures mainly differ in the",
+    "paper_id": "http://arxiv.org/abs/2012.13176v1",
+    "authors": [
+      "Marta R. Costa-juss\u00e0",
+      "Carlos Escolano",
+      "Christine Basta",
+      "Javier Ferrando",
+      "Roser Batlle",
+      "Ksenia Kharitonova"
+    ],
+    "published_date": "2020-12-24T09:27:52Z"
+  },
+  {
+    "title": "Word Embeddings via Causal Inference: Gender Bias Reducing and Semantic",
+    "summary": "With widening deployments of natural language processing (NLP) in daily life,",
+    "paper_id": "http://arxiv.org/abs/2112.05194v1",
+    "authors": [
+      "Lei Ding",
+      "Dengdeng Yu",
+      "Jinhan Xie",
+      "Wenxing Guo",
+      "Shenggang Hu",
+      "Meichen Liu",
+      "Linglong Kong",
+      "Hongsheng Dai",
+      "Yanchun Bao",
+      "Bei Jiang"
+    ],
+    "published_date": "2021-12-09T19:57:22Z"
+  },
+  {
+    "title": "A GNN-RNN Approach for Harnessing Geospatial and Temporal Information:",
+    "summary": "Climate change is posing new challenges to crop-related concerns including",
+    "paper_id": "http://arxiv.org/abs/2111.08900v2",
+    "authors": [
+      "Joshua Fan",
+      "Junwen Bai",
+      "Zhiyun Li",
+      "Ariel Ortiz-Bobea",
+      "Carla P. Gomes"
+    ],
+    "published_date": "2021-11-17T04:43:25Z"
+  },
+  {
+    "title": "Are Gender-Neutral Queries Really Gender-Neutral? Mitigating Gender Bias",
+    "summary": "Internet search affects people's cognition of the world, so mitigating biases",
+    "paper_id": "http://arxiv.org/abs/2109.05433v1",
+    "authors": [
+      "Jialu Wang",
+      "Yang Liu",
+      "Xin Eric Wang"
+    ],
+    "published_date": "2021-09-12T04:47:33Z"
+  },
+  {
+    "title": "Communication-Efficient Federated Distillation",
+    "summary": "Communication constraints are one of the major challenges preventing the",
+    "paper_id": "http://arxiv.org/abs/2012.00632v1",
+    "authors": [
+      "Felix Sattler",
+      "Arturo Marban",
+      "Roman Rischke",
+      "Wojciech Samek"
+    ],
+    "published_date": "2020-12-01T16:57:25Z"
+  },
+  {
+    "title": "Bayesian Optimisation for Active Monitoring of Air Pollution",
+    "summary": "Air pollution is one of the leading causes of mortality globally, resulting",
+    "paper_id": "http://arxiv.org/abs/2202.07595v2",
+    "authors": [
+      "Sigrid Passano Hellan",
+      "Christopher G. Lucas",
+      "Nigel H. Goddard"
+    ],
+    "published_date": "2022-02-15T17:31:31Z"
+  },
+  {
+    "title": "A safety risk assessment framework for children's online safety based on",
+    "summary": "This paper addresses the problem of children's online safety in the context",
+    "paper_id": "http://arxiv.org/abs/2401.14713v1",
+    "authors": [
+      "Vinh-Thong Ta"
+    ],
+    "published_date": "2024-01-26T08:50:15Z"
+  },
+  {
+    "title": "Gradual (In)Compatibility of Fairness Criteria",
+    "summary": "Impossibility results show that important fairness measures (independence,",
+    "paper_id": "http://arxiv.org/abs/2109.04399v2",
+    "authors": [
+      "Corinna Hertweck",
+      "Tim R\u00e4z"
+    ],
+    "published_date": "2021-09-09T16:37:30Z"
+  },
+  {
+    "title": "Adaptive Energy Management for Self-Sustainable Wearables in Mobile",
+    "summary": "Wearable devices that integrate multiple sensors, processors, and",
+    "paper_id": "http://arxiv.org/abs/2201.07888v1",
+    "authors": [
+      "Dina Hussein",
+      "Ganapati Bhat",
+      "Janardhan Rao Doppa"
+    ],
+    "published_date": "2022-01-16T23:49:20Z"
+  },
+  {
+    "title": "Evaluating Explainable AI on a Multi-Modal Medical Imaging Task: Can",
+    "summary": "Being able to explain the prediction to clinical end-users is a necessity to",
+    "paper_id": "http://arxiv.org/abs/2203.06487v2",
+    "authors": [
+      "Weina Jin",
+      "Xiaoxiao Li",
+      "Ghassan Hamarneh"
+    ],
+    "published_date": "2022-03-12T17:18:16Z"
+  },
+  {
+    "title": "A Search Engine for Discovery of Scientific Challenges and Directions",
+    "summary": "Keeping track of scientific challenges, advances and emerging directions is a",
+    "paper_id": "http://arxiv.org/abs/2108.13751v3",
+    "authors": [
+      "Dan Lahav",
+      "Jon Saad Falcon",
+      "Bailey Kuehl",
+      "Sophie Johnson",
+      "Sravanthi Parasa",
+      "Noam Shomron",
+      "Duen Horng Chau",
+      "Diyi Yang",
+      "Eric Horvitz",
+      "Daniel S. Weld",
+      "Tom Hope"
+    ],
+    "published_date": "2021-08-31T11:08:20Z"
+  },
+  {
+    "title": "Transcribing Natural Languages for The Deaf via Neural Editing Programs",
+    "summary": "This work studies the task of glossification, of which the aim is to em",
+    "paper_id": "http://arxiv.org/abs/2112.09600v1",
+    "authors": [
+      "Dongxu Li",
+      "Chenchen Xu",
+      "Liu Liu",
+      "Yiran Zhong",
+      "Rong Wang",
+      "Lars Petersson",
+      "Hongdong Li"
+    ],
+    "published_date": "2021-12-17T16:21:49Z"
+  },
+  {
+    "title": "Optimal Local Explainer Aggregation for Interpretable Prediction",
+    "summary": "A key challenge for decision makers when incorporating black box machine",
+    "paper_id": "http://arxiv.org/abs/2003.09466v2",
+    "authors": [
+      "Qiaomei Li",
+      "Rachel Cummings",
+      "Yonatan Mintz"
+    ],
+    "published_date": "2020-03-20T19:02:11Z"
+  },
+  {
+    "title": "Fair Conformal Predictors for Applications in Medical Imaging",
+    "summary": "Deep learning has the potential to automate many clinically useful tasks in",
+    "paper_id": "http://arxiv.org/abs/2109.04392v3",
+    "authors": [
+      "Charles Lu",
+      "Andreanne Lemay",
+      "Ken Chang",
+      "Katharina Hoebel",
+      "Jayashree Kalpathy-Cramer"
+    ],
+    "published_date": "2021-09-09T16:31:10Z"
+  },
+  {
+    "title": "Field Study in Deploying Restless Multi-Armed Bandits: Assisting",
+    "summary": "The widespread availability of cell phones has enabled non-profits to deliver",
+    "paper_id": "http://arxiv.org/abs/2109.08075v2",
+    "authors": [
+      "Aditya Mate",
+      "Lovish Madaan",
+      "Aparna Taneja",
+      "Neha Madhiwalla",
+      "Shresth Verma",
+      "Gargi Singh",
+      "Aparna Hegde",
+      "Pradeep Varakantham",
+      "Milind Tambe"
+    ],
+    "published_date": "2021-09-16T16:04:48Z"
+  },
+  {
+    "title": "Gender and Racial Stereotype Detection in Legal Opinion Word Embeddings",
+    "summary": "Studies have shown that some Natural Language Processing (NLP) systems encode",
+    "paper_id": "http://arxiv.org/abs/2203.13369v2",
+    "authors": [
+      "Sean Matthews",
+      "John Hudzina",
+      "Dawn Sepehr"
+    ],
+    "published_date": "2022-03-24T22:30:49Z"
+  },
+  {
+    "title": "Learning Economic Indicators by Aggregating Multi-Level Geospatial",
+    "summary": "High-resolution daytime satellite imagery has become a promising source to",
+    "paper_id": "http://arxiv.org/abs/2205.01472v1",
+    "authors": [
+      "Sungwon Park",
+      "Sungwon Han",
+      "Donghyun Ahn",
+      "Jaeyeon Kim",
+      "Jeasurk Yang",
+      "Susang Lee",
+      "Seunghoon Hong",
+      "Jihee Kim",
+      "Sangyoon Park",
+      "Hyunjoo Yang",
+      "Meeyoung Cha"
+    ],
+    "published_date": "2022-05-03T13:05:39Z"
+  },
+  {
+    "title": "Knowledge Sharing via Domain Adaptation in Customs Fraud Detection",
+    "summary": "Knowledge of the changing traffic is critical in risk management. Customs",
+    "paper_id": "http://arxiv.org/abs/2201.06759v1",
+    "authors": [
+      "Sungwon Park",
+      "Sundong Kim",
+      "Meeyoung Cha"
+    ],
+    "published_date": "2022-01-18T06:17:03Z"
+  },
+  {
+    "title": "Learning the Physics of Particle Transport via Transformers",
+    "summary": "Particle physics simulations are the cornerstone of nuclear engineering",
+    "paper_id": "http://arxiv.org/abs/2109.03951v1",
+    "authors": [
+      "Oscar Pastor-Serrano",
+      "Zolt\u00e1n Perk\u00f3"
+    ],
+    "published_date": "2021-09-08T22:26:03Z"
+  },
+  {
+    "title": "Deep Gaussian Processes for Air Quality Inference",
+    "summary": "Air pollution kills around 7 million people annually, and approximately 2.4",
+    "paper_id": "http://arxiv.org/abs/2211.10174v1",
+    "authors": [
+      "Aadesh Desai",
+      "Eshan Gujarathi",
+      "Saagar Parikh",
+      "Sachin Yadav",
+      "Zeel Patel",
+      "Nipun Batra"
+    ],
+    "published_date": "2022-11-18T11:42:42Z"
+  },
+  {
+    "title": "Investigations of Performance and Bias in Human-AI Teamwork in Hiring",
+    "summary": "In AI-assisted decision-making, effective hybrid (human-AI) teamwork is not",
+    "paper_id": "http://arxiv.org/abs/2202.11812v1",
+    "authors": [
+      "Andi Peng",
+      "Besmira Nushi",
+      "Emre Kiciman",
+      "Kori Inkpen",
+      "Ece Kamar"
+    ],
+    "published_date": "2022-02-21T17:58:07Z"
+  },
+  {
+    "title": "Deep Movement Primitives: toward Breast Cancer Examination Robot",
+    "summary": "Breast cancer is the most common type of cancer worldwide. A robotic system",
+    "paper_id": "http://arxiv.org/abs/2202.09265v1",
+    "authors": [
+      "Oluwatoyin Sanni",
+      "Giorgio Bonvicini",
+      "Muhammad Arshad Khan",
+      "Pablo C. Lopez-Custodio",
+      "Kiyanoush Nazari",
+      "Amir M. Ghalamzan E."
+    ],
+    "published_date": "2022-02-14T15:58:00Z"
+  },
+  {
+    "title": "Skip Training for Multi-Agent Reinforcement Learning Controller for",
+    "summary": "Recent Wave Energy Converters (WEC) are equipped with multiple legs and",
+    "paper_id": "http://arxiv.org/abs/2209.05656v1",
+    "authors": [
+      "Soumyendu Sarkar",
+      "Vineet Gundecha",
+      "Sahand Ghorbanpour",
+      "Alexander Shmakov",
+      "Ashwin Ramesh Babu",
+      "Alexandre Pichard",
+      "Mathieu Cocho"
+    ],
+    "published_date": "2022-09-13T00:20:31Z"
+  },
+  {
+    "title": "A Survey on Delay-Aware Network Structure for Wireless Sensor Networks",
+    "summary": "A Wireless Sensor Network (WSN) consists of spatially distributed autonomous",
+    "paper_id": "http://arxiv.org/abs/1402.1245v1",
+    "authors": [
+      "Ms. Aruna. G. R",
+      "Mr. SivanArulSelvan"
+    ],
+    "published_date": "2014-02-06T05:10:55Z"
+  },
+  {
+    "title": "Commitment on Volunteer Crowdsourcing Platforms: Implications for Growth",
+    "summary": "Volunteer crowdsourcing platforms match volunteers with tasks which are often",
+    "paper_id": "http://arxiv.org/abs/2005.10731v3",
+    "authors": [
+      "Irene Lo",
+      "Vahideh Manshadi",
+      "Scott Rodilitz",
+      "Ali Shameli"
+    ],
+    "published_date": "2020-05-21T15:41:05Z"
+  },
+  {
+    "title": "Complaint Identification in Social Media with Transformer Networks",
+    "summary": "Complaining is a speech act extensively used by humans to communicate a",
+    "paper_id": "http://arxiv.org/abs/2010.10910v1",
+    "authors": [
+      "Mali Jin",
+      "Nikolaos Aletras"
+    ],
+    "published_date": "2020-10-21T11:44:04Z"
+  },
+  {
+    "title": "Unsupervised Sentence Simplification via Dependency Parsing",
+    "summary": "Text simplification is the task of rewriting a text so that it is readable",
+    "paper_id": "http://arxiv.org/abs/2206.12261v1",
+    "authors": [
+      "Vy Vo",
+      "Weiqing Wang",
+      "Wray Buntine"
+    ],
+    "published_date": "2022-06-10T07:55:25Z"
+  },
+  {
+    "title": "Longitudinal Fairness with Censorship",
+    "summary": "Recent works in artificial intelligence fairness attempt to mitigate",
+    "paper_id": "http://arxiv.org/abs/2203.16024v2",
+    "authors": [
+      "Wenbin Zhang",
+      "Jeremy C. Weiss"
+    ],
+    "published_date": "2022-03-30T03:08:40Z"
+  },
+  {
+    "title": "On the Challenges of using Reinforcement Learning in Precision Drug",
+    "summary": "Drug dosing is an important application of AI, which can be formulated as a",
+    "paper_id": "http://arxiv.org/abs/2301.00512v1",
+    "authors": [
+      "Sumana Basu",
+      "Marc-Andr\u00e9 Legault",
+      "Adriana Romero-Soriano",
+      "Doina Precup"
+    ],
+    "published_date": "2023-01-02T03:16:59Z"
+  },
+  {
+    "title": "On the Cost of Demographic Parity in Influence Maximization",
+    "summary": "Modeling and shaping how information spreads through a network is a major",
+    "paper_id": "http://arxiv.org/abs/2302.13110v1",
+    "authors": [
+      "Ruben Becker",
+      "Gianlorenzo D'Angelo",
+      "Sajjad Ghobadi"
+    ],
+    "published_date": "2023-02-25T16:18:52Z"
+  },
+  {
+    "title": "Improving Fairness in Information Exposure by Adding Links",
+    "summary": "Fairness in influence maximization has been a very active research topic",
+    "paper_id": "http://arxiv.org/abs/2302.13112v1",
+    "authors": [
+      "Ruben Becker",
+      "Gianlorenzo D'Angelo",
+      "Sajjad Ghobadi"
+    ],
+    "published_date": "2023-02-25T16:25:22Z"
+  },
+  {
+    "title": "Algorithms for Fair Team Formation in Online Labour Marketplaces",
+    "summary": "As freelancing work keeps on growing almost everywhere due to a sharp",
+    "paper_id": "http://arxiv.org/abs/2002.11621v1",
+    "authors": [
+      "Giorgio Barnab\u00f2",
+      "Adriano Fazzone",
+      "Stefano Leonardi",
+      "Chris Schwiegelshohn"
+    ],
+    "published_date": "2020-02-14T11:33:35Z"
+  },
+  {
+    "title": "Rehabilitating Homeless: Dataset and Key Insights",
+    "summary": "This paper presents a large anonymized dataset of homelessness alongside",
+    "paper_id": "http://arxiv.org/abs/2302.04455v2",
+    "authors": [
+      "Anna Bykova",
+      "Nikolay Filippov",
+      "Ivan P. Yamshchikov"
+    ],
+    "published_date": "2023-02-09T06:21:27Z"
+  },
+  {
+    "title": "Counterfactuals for the Future",
+    "summary": "Counterfactuals are often described as 'retrospective,' focusing on",
+    "paper_id": "http://arxiv.org/abs/2212.03974v1",
+    "authors": [
+      "Lucius E. J. Bynum",
+      "Joshua R. Loftus",
+      "Julia Stoyanovich"
+    ],
+    "published_date": "2022-12-07T22:19:15Z"
+  },
+  {
+    "title": "Finding Money Launderers Using Heterogeneous Graph Neural Networks",
+    "summary": "Current anti-money laundering (AML) systems, predominantly rule-based,",
+    "paper_id": "http://arxiv.org/abs/2307.13499v1",
+    "authors": [
+      "Fredrik Johannessen",
+      "Martin Jullum"
+    ],
+    "published_date": "2023-07-25T13:49:15Z"
+  },
+  {
+    "title": "Estimating Geographic Spillover Effects of COVID-19 Policies From",
+    "summary": "Many policies in the US are determined locally, e.g., at the county-level.",
+    "paper_id": "http://arxiv.org/abs/2212.06224v1",
+    "authors": [
+      "Serina Chang",
+      "Damir Vrabac",
+      "Jure Leskovec",
+      "Johan Ugander"
+    ],
+    "published_date": "2022-12-12T20:16:54Z"
+  },
+  {
+    "title": "Seq2Seq Surrogates of Epidemic Models to Facilitate Bayesian Inference",
+    "summary": "Epidemic models are powerful tools in understanding infectious disease.",
+    "paper_id": "http://arxiv.org/abs/2209.09617v2",
+    "authors": [
+      "Giovanni Charles",
+      "Timothy M. Wolock",
+      "Peter Winskill",
+      "Azra Ghani",
+      "Samir Bhatt",
+      "Seth Flaxman"
+    ],
+    "published_date": "2022-09-20T11:23:19Z"
+  },
+  {
+    "title": "Leveraging Old Knowledge to Continually Learn New Classes in Medical",
+    "summary": "Class-incremental continual learning is a core step towards developing",
+    "paper_id": "http://arxiv.org/abs/2303.13752v1",
+    "authors": [
+      "Evelyn Chee",
+      "Mong Li Lee",
+      "Wynne Hsu"
+    ],
+    "published_date": "2023-03-24T02:10:53Z"
+  },
+  {
+    "title": "Improving Interpretability of Deep Sequential Knowledge Tracing Models",
+    "summary": "Knowledge tracing (KT) is a crucial technique to predict students' future",
+    "paper_id": "http://arxiv.org/abs/2302.06885v3",
+    "authors": [
+      "Jiahao Chen",
+      "Zitao Liu",
+      "Shuyan Huang",
+      "Qiongqiong Liu",
+      "Weiqi Luo"
+    ],
+    "published_date": "2023-02-14T08:14:30Z"
+  },
+  {
+    "title": "Fusing LLMs and KGs for Formal Causal Reasoning behind Financial Risk",
+    "summary": "Financial risks trend to spread from one entity to another, ultimately",
+    "paper_id": "http://arxiv.org/abs/2407.17190v1",
+    "authors": [
+      "Guanyuan Yu",
+      "Xv Wang",
+      "Qing Li",
+      "Yu Zhao"
+    ],
+    "published_date": "2024-07-24T11:49:15Z"
+  },
+  {
+    "title": "GAN-based Domain Inference Attack",
+    "summary": "Model-based attacks can infer training data information from deep neural",
+    "paper_id": "http://arxiv.org/abs/2212.11810v1",
+    "authors": [
+      "Yuechun Gu",
+      "Keke Chen"
+    ],
+    "published_date": "2022-12-22T15:40:53Z"
+  },
+  {
+    "title": "Domain-guided Machine Learning for Remotely Sensed In-Season Crop Growth",
+    "summary": "Advanced machine learning techniques have been used in remote sensing (RS)",
+    "paper_id": "http://arxiv.org/abs/2106.13323v2",
+    "authors": [
+      "George Worrall",
+      "Anand Rangarajan",
+      "Jasmeet Judge"
+    ],
+    "published_date": "2021-06-24T21:21:35Z"
+  },
+  {
+    "title": "Low Emission Building Control with Zero-Shot Reinforcement Learning",
+    "summary": "Heating and cooling systems in buildings account for 31\\% of global energy",
+    "paper_id": "http://arxiv.org/abs/2208.06385v2",
+    "authors": [
+      "Scott R. Jeen",
+      "Alessandro Abate",
+      "Jonathan M. Cullen"
+    ],
+    "published_date": "2022-08-12T17:13:25Z"
+  },
+  {
+    "title": "Spatio-Temporal Graph Neural Point Process for Traffic Congestion Event",
+    "summary": "Traffic congestion event prediction is an important yet challenging task in",
+    "paper_id": "http://arxiv.org/abs/2311.08635v1",
+    "authors": [
+      "Guangyin Jin",
+      "Lingbo Liu",
+      "Fuxian Li",
+      "Jincai Huang"
+    ],
+    "published_date": "2023-11-15T01:22:47Z"
+  },
+  {
+    "title": "Taxonomizing and Measuring Representational Harms: A Look at Image",
+    "summary": "In this paper, we examine computational approaches for measuring the",
+    "paper_id": "http://arxiv.org/abs/2305.01776v1",
+    "authors": [
+      "Jared Katzman",
+      "Angelina Wang",
+      "Morgan Scheuerman",
+      "Su Lin Blodgett",
+      "Kristen Laird",
+      "Hanna Wallach",
+      "Solon Barocas"
+    ],
+    "published_date": "2023-05-02T20:36:30Z"
+  },
+  {
+    "title": "Winning the CityLearn Challenge: Adaptive Optimization with Evolutionary",
+    "summary": "Modern power systems will have to face difficult challenges in the years to",
+    "paper_id": "http://arxiv.org/abs/2212.01939v1",
+    "authors": [
+      "Vanshaj Khattar",
+      "Ming Jin"
+    ],
+    "published_date": "2022-12-04T22:18:38Z"
+  },
+  {
+    "title": "Selective Intervention Planning using Restless Multi-Armed Bandits to",
+    "summary": "India has a maternal mortality ratio of 113 and child mortality ratio of 2830",
+    "paper_id": "http://arxiv.org/abs/2103.09052v4",
+    "authors": [
+      "Siddharth Nishtala",
+      "Lovish Madaan",
+      "Aditya Mate",
+      "Harshavardhan Kamarthi",
+      "Anirudh Grama",
+      "Divy Thakkar",
+      "Dhyanesh Narayanan",
+      "Suresh Chaudhary",
+      "Neha Madhiwalla",
+      "Ramesh Padmanabhan",
+      "Aparna Hegde",
+      "Pradeep Varakantham",
+      "Balaraman Ravindran",
+      "Milind Tambe"
+    ],
+    "published_date": "2021-03-07T08:47:24Z"
+  },
+  {
+    "title": "Equivariant Message Passing Neural Network for Crystal Material",
+    "summary": "Automatic material discovery with desired properties is a fundamental",
+    "paper_id": "http://arxiv.org/abs/2302.00485v1",
+    "authors": [
+      "Astrid Klipfel",
+      "Olivier Peltre",
+      "Najwa Harrati",
+      "Ya\u00ebl Fregier",
+      "Adlane Sayede",
+      "Zied Bouraoui"
+    ],
+    "published_date": "2023-02-01T14:48:18Z"
+  },
+  {
+    "title": "Accurate Fairness: Improving Individual Fairness without Trading",
+    "summary": "Accuracy and individual fairness are both crucial for trustworthy machine",
+    "paper_id": "http://arxiv.org/abs/2205.08704v2",
+    "authors": [
+      "Xuran Li",
+      "Peng Wu",
+      "Jing Su"
+    ],
+    "published_date": "2022-05-18T03:24:16Z"
+  },
+  {
+    "title": "Interpretable Poverty Mapping using Social Media Data, Satellite Images,",
+    "summary": "Access to accurate, granular, and up-to-date poverty data is essential for",
+    "paper_id": "http://arxiv.org/abs/2011.13563v1",
+    "authors": [
+      "Chiara Ledesma",
+      "Oshean Lee Garonita",
+      "Lorenzo Jaime Flores",
+      "Isabelle Tingzon",
+      "Danielle Dalisay"
+    ],
+    "published_date": "2020-11-27T05:24:53Z"
+  },
+  {
+    "title": "Human Mobility Modeling During the COVID-19 Pandemic via Deep Graph",
+    "summary": "Non-Pharmaceutical Interventions (NPIs), such as social gathering",
+    "paper_id": "http://arxiv.org/abs/2212.05707v1",
+    "authors": [
+      "Yang Liu",
+      "Yu Rong",
+      "Zhuoning Guo",
+      "Nuo Chen",
+      "Tingyang Xu",
+      "Fugee Tsung",
+      "Jia Li"
+    ],
+    "published_date": "2022-12-12T05:15:47Z"
+  },
+  {
+    "title": "Quantitative Evaluation of Explainable Graph Neural Networks for",
+    "summary": "Advances in machine learning have led to graph neural network-based methods",
+    "paper_id": "http://arxiv.org/abs/2107.04119v2",
+    "authors": [
+      "Jiahua Rao",
+      "Shuangjia Zheng",
+      "Yuedong Yang"
+    ],
+    "published_date": "2021-07-01T04:49:29Z"
+  },
+  {
+    "title": "Learning Generalizable 3D Manipulation With 10 Demonstrations",
+    "summary": "Learning robust and generalizable manipulation skills from demonstrations",
+    "paper_id": "http://arxiv.org/abs/2411.10203v1",
+    "authors": [
+      "Yu Ren",
+      "Yang Cong",
+      "Ronghan Chen",
+      "Jiahao Long"
+    ],
+    "published_date": "2024-11-15T14:01:02Z"
+  },
+  {
+    "title": "Bugs in the Data: How ImageNet Misrepresents Biodiversity",
+    "summary": "ImageNet-1k is a dataset often used for benchmarking machine learning (ML)",
+    "paper_id": "http://arxiv.org/abs/2208.11695v1",
+    "authors": [
+      "Alexandra Sasha Luccioni",
+      "David Rolnick"
+    ],
+    "published_date": "2022-08-24T17:55:48Z"
+  },
+  {
+    "title": "Neighbor Auto-Grouping Graph Neural Networks for Handover Parameter",
+    "summary": "The mobile communication enabled by cellular networks is the one of the main",
+    "paper_id": "http://arxiv.org/abs/2301.03412v2",
+    "authors": [
+      "Mehrtash Mehrabi",
+      "Walid Masoudimansour",
+      "Yingxue Zhang",
+      "Jie Chuai",
+      "Zhitang Chen",
+      "Mark Coates",
+      "Jianye Hao",
+      "Yanhui Geng"
+    ],
+    "published_date": "2022-12-29T18:51:36Z"
+  },
+  {
+    "title": "Deep Learning Mental Health Dialogue System",
+    "summary": "Mental health counseling remains a major challenge in modern society due to",
+    "paper_id": "http://arxiv.org/abs/2301.09412v1",
+    "authors": [
+      "Lennart Brocki",
+      "George C. Dyer",
+      "Anna G\u0142adka",
+      "Neo Christopher Chung"
+    ],
+    "published_date": "2023-01-23T13:10:23Z"
+  },
+  {
+    "title": "Joint Debiased Representation and Image Clustering Learning with",
+    "summary": "Contrastive learning is among the most successful methods for visual",
+    "paper_id": "http://arxiv.org/abs/2209.06941v1",
+    "authors": [
+      "Shunjie-Fabian Zheng",
+      "JaeEun Nam",
+      "Emilio Dorigatti",
+      "Bernd Bischl",
+      "Shekoofeh Azizi",
+      "Mina Rezaei"
+    ],
+    "published_date": "2022-09-14T21:23:41Z"
+  },
+  {
+    "title": "For the Underrepresented in Gender Bias Research: Chinese Name Gender",
+    "summary": "Achieving gender equality is an important pillar for humankind's sustainable",
+    "paper_id": "http://arxiv.org/abs/2302.00419v1",
+    "authors": [
+      "Zihao Pan",
+      "Kai Peng",
+      "Shuai Ling",
+      "Haipeng Zhang"
+    ],
+    "published_date": "2023-02-01T13:08:50Z"
+  },
+  {
+    "title": "Counterfactual Fairness Is Basically Demographic Parity",
+    "summary": "Making fair decisions is crucial to ethically implementing machine learning",
+    "paper_id": "http://arxiv.org/abs/2208.03843v4",
+    "authors": [
+      "Lucas Rosenblatt",
+      "R. Teal Witter"
+    ],
+    "published_date": "2022-08-07T23:38:59Z"
+  },
+  {
+    "title": "A Knowledge Graph-based Approach for Exploring the U.S. Opioid Epidemic",
+    "summary": "The United States is in the midst of an opioid epidemic with recent estimates",
+    "paper_id": "http://arxiv.org/abs/1905.11513v1",
+    "authors": [
+      "Maulik R. Kamdar",
+      "Tymor Hamamsy",
+      "Shea Shelton",
+      "Ayin Vala",
+      "Tome Eftimov",
+      "James Zou",
+      "Suzanne Tamang"
+    ],
+    "published_date": "2019-05-27T21:25:51Z"
+  },
+  {
+    "title": "Restricted Black-box Adversarial Attack Against DeepFake Face Swapping",
+    "summary": "DeepFake face swapping presents a significant threat to online security and",
+    "paper_id": "http://arxiv.org/abs/2204.12347v1",
+    "authors": [
+      "Junhao Dong",
+      "Yuan Wang",
+      "Jianhuang Lai",
+      "Xiaohua Xie"
+    ],
+    "published_date": "2022-04-26T14:36:06Z"
+  },
+  {
+    "title": "Daycare Matching in Japan: Transfers and Siblings",
+    "summary": "In this paper, we study a daycare matching problem in Japan and report the",
+    "paper_id": "http://arxiv.org/abs/2212.02751v1",
+    "authors": [
+      "Zhaohong Sun",
+      "Yoshihiro Takenami",
+      "Daisuke Moriwaki",
+      "Yoji Tomita",
+      "Makoto Yokoo"
+    ],
+    "published_date": "2022-12-06T04:45:03Z"
+  },
+  {
+    "title": "City-scale Pollution Aware Traffic Routing by Sampling Max Flows using",
+    "summary": "A significant cause of air pollution in urban areas worldwide is the high",
+    "paper_id": "http://arxiv.org/abs/2302.14442v1",
+    "authors": [
+      "Shreevignesh Suriyanarayanan",
+      "Praveen Paruchuri",
+      "Girish Varma"
+    ],
+    "published_date": "2023-02-28T09:40:37Z"
+  },
+  {
+    "title": "Evaluating Digital Agriculture Recommendations with Causal Inference",
+    "summary": "In contrast to the rapid digitalization of several industries, agriculture",
+    "paper_id": "http://arxiv.org/abs/2211.16938v1",
+    "authors": [
+      "Ilias Tsoumas",
+      "Georgios Giannarakis",
+      "Vasileios Sitokonstantinou",
+      "Alkiviadis Koukos",
+      "Dimitra Loka",
+      "Nikolaos Bartsotas",
+      "Charalampos Kontoes",
+      "Ioannis Athanasiadis"
+    ],
+    "published_date": "2022-11-30T12:20:08Z"
+  },
+  {
+    "title": "Facial Forgery-based Deepfake Detection using Fine-Grained Features",
+    "summary": "Facial forgery by deepfakes has caused major security risks and raised severe",
+    "paper_id": "http://arxiv.org/abs/2310.07028v1",
+    "authors": [
+      "Aakash Varma Nadimpalli",
+      "Ajita Rattani"
+    ],
+    "published_date": "2023-10-10T21:30:05Z"
+  },
+  {
+    "title": "Heterogeneous Graph Auto-Encoder for CreditCard Fraud Detection",
+    "summary": "The digital revolution has significantly impacted financial transactions,",
+    "paper_id": "http://arxiv.org/abs/2410.08121v1",
+    "authors": [
+      "Moirangthem Tiken Singh",
+      "Rabinder Kumar Prasad",
+      "Gurumayum Robert Michael",
+      "N K Kaphungkui",
+      "N. Hemarjit Singh"
+    ],
+    "published_date": "2024-10-10T17:05:27Z"
+  },
+  {
+    "title": "SGRAM: Improving Scene Graph Parsing via Abstract Meaning Representation",
+    "summary": "Scene graph is structured semantic representation that can be modeled as a",
+    "paper_id": "http://arxiv.org/abs/2210.08675v1",
+    "authors": [
+      "Woo Suk Choi",
+      "Yu-Jung Heo",
+      "Byoung-Tak Zhang"
+    ],
+    "published_date": "2022-10-17T00:37:00Z"
+  },
+  {
+    "title": "Deep Learning on a Healthy Data Diet: Finding Important Examples for",
+    "summary": "Data-driven predictive solutions predominant in commercial applications tend",
+    "paper_id": "http://arxiv.org/abs/2211.11109v2",
+    "authors": [
+      "Abdelrahman Zayed",
+      "Prasanna Parthasarathi",
+      "Goncalo Mordido",
+      "Hamid Palangi",
+      "Samira Shabanian",
+      "Sarath Chandar"
+    ],
+    "published_date": "2022-11-20T22:42:30Z"
+  },
+  {
+    "title": "Using Pre-/Post-Quizzes Intentionally in Curriculum Development and",
+    "summary": "Developing the final summative assessment of a course at the start of",
+    "paper_id": "http://arxiv.org/abs/2210.01823v1",
+    "authors": [
+      "Kathy L. Cooksey",
+      "Patrik Jonsson"
+    ],
+    "published_date": "2022-10-04T18:00:20Z"
+  },
+  {
+    "title": "No Free Lunch: Retrieval-Augmented Generation Undermines Fairness in",
+    "summary": "Retrieval-Augmented Generation (RAG) is widely adopted for its effectiveness",
+    "paper_id": "http://arxiv.org/abs/2410.07589v1",
+    "authors": [
+      "Mengxuan Hu",
+      "Hongyi Wu",
+      "Zihan Guan",
+      "Ronghang Zhu",
+      "Dongliang Guo",
+      "Daiqing Qi",
+      "Sheng Li"
+    ],
+    "published_date": "2024-10-10T03:51:58Z"
+  },
+  {
+    "title": "Characterisation of placental malaria in olive baboons (Papio anubis)",
+    "summary": "Pregnant women have increased susceptibility to malaria infection. In these",
+    "paper_id": "http://arxiv.org/abs/1204.3126v2",
+    "authors": [
+      "Barasa Mustafa",
+      "Gicheru Muita MichaeL",
+      "Kagasi Ambogo Esther",
+      "Ozwara Suba Hastings"
+    ],
+    "published_date": "2012-04-14T00:41:42Z"
+  },
+  {
+    "title": "Future Aware Pricing and Matching for Sustainable On-demand Ride Pooling",
+    "summary": "The popularity of on-demand ride pooling is owing to the benefits offered to",
+    "paper_id": "http://arxiv.org/abs/2302.10510v3",
+    "authors": [
+      "Xianjie Zhang",
+      "Pradeep Varakantham",
+      "Hao Jiang"
+    ],
+    "published_date": "2023-02-21T08:24:35Z"
+  },
+  {
+    "title": "Dual Node and Edge Fairness-Aware Graph Partition",
+    "summary": "Fair graph partition of social networks is a crucial step toward ensuring",
+    "paper_id": "http://arxiv.org/abs/2306.10123v2",
+    "authors": [
+      "Tingwei Liu",
+      "Peizhao Li",
+      "Hongfu Liu"
+    ],
+    "published_date": "2023-06-16T18:18:37Z"
+  },
+  {
+    "title": "Auditing and Robustifying COVID-19 Misinformation Datasets via",
+    "summary": "This paper makes two key contributions. First, it argues that highly",
+    "paper_id": "http://arxiv.org/abs/2310.07078v1",
+    "authors": [
+      "Clay H. Yoo",
+      "Ashiqur R. KhudaBukhsh"
+    ],
+    "published_date": "2023-08-05T22:38:05Z"
+  },
+  {
+    "title": "Formally Verified SAT-Based AI Planning",
+    "summary": "We present an executable formally verified SAT encoding of classical AI",
+    "paper_id": "http://arxiv.org/abs/2010.14648v5",
+    "authors": [
+      "Mohammad Abdulaziz",
+      "Friedrich Kurz"
+    ],
+    "published_date": "2020-10-27T22:23:04Z"
+  },
+  {
+    "title": "Shielding in Resource-Constrained Goal POMDPs",
+    "summary": "We consider partially observable Markov decision processes (POMDPs) modeling",
+    "paper_id": "http://arxiv.org/abs/2211.15349v1",
+    "authors": [
+      "Michal Ajdar\u00f3w",
+      "\u0160imon Brlej",
+      "Petr Novotn\u00fd"
+    ],
+    "published_date": "2022-11-28T14:30:05Z"
+  },
+  {
+    "title": "Implicit Bilevel Optimization: Differentiating through Bilevel",
+    "summary": "Bilevel Optimization Programming is used to model complex and conflicting",
+    "paper_id": "http://arxiv.org/abs/2302.14473v1",
+    "authors": [
+      "Francesco Alesiani"
+    ],
+    "published_date": "2023-02-28T10:32:17Z"
+  },
+  {
+    "title": "Multiple Instance Detection Network with Online Instance Classifier",
+    "summary": "Of late, weakly supervised object detection is with great importance in",
+    "paper_id": "http://arxiv.org/abs/1704.00138v1",
+    "authors": [
+      "Peng Tang",
+      "Xinggang Wang",
+      "Xiang Bai",
+      "Wenyu Liu"
+    ],
+    "published_date": "2017-04-01T08:32:40Z"
+  },
+  {
+    "title": "Probabilities Are Not Enough: Formal Controller Synthesis for Stochastic",
+    "summary": "Capturing uncertainty in models of complex dynamical systems is crucial to",
+    "paper_id": "http://arxiv.org/abs/2210.05989v2",
+    "authors": [
+      "Thom Badings",
+      "Licio Romao",
+      "Alessandro Abate",
+      "Nils Jansen"
+    ],
+    "published_date": "2022-10-12T07:57:03Z"
+  },
+  {
+    "title": "Accelerating Inverse Learning via Intelligent Localization with",
+    "summary": "In the scope of \"AI for Science\", solving inverse problems is a longstanding",
+    "paper_id": "http://arxiv.org/abs/2212.01016v1",
+    "authors": [
+      "Jiaxin Zhang",
+      "Sirui Bi",
+      "Victor Fung"
+    ],
+    "published_date": "2022-12-02T08:00:04Z"
+  },
+  {
+    "title": "Self-Supervised Masking for Unsupervised Anomaly Detection and",
+    "summary": "Recently, anomaly detection and localization in multimedia data have received",
+    "paper_id": "http://arxiv.org/abs/2205.06568v1",
+    "authors": [
+      "Chaoqin Huang",
+      "Qinwei Xu",
+      "Yanfeng Wang",
+      "Yu Wang",
+      "Ya Zhang"
+    ],
+    "published_date": "2022-05-13T11:42:06Z"
+  },
+  {
+    "title": "Joint Binary Neural Network for Multi-label Learning with Applications",
+    "summary": "Recently the deep learning techniques have achieved success in multi-label",
+    "paper_id": "http://arxiv.org/abs/1802.00891v1",
+    "authors": [
+      "Huihui He",
+      "Rui Xia"
+    ],
+    "published_date": "2018-02-03T01:42:32Z"
+  },
+  {
+    "title": "Safe Reinforcement Learning via Shielding under Partial Observability",
+    "summary": "Safe exploration is a common problem in reinforcement learning (RL) that aims",
+    "paper_id": "http://arxiv.org/abs/2204.00755v2",
+    "authors": [
+      "Steven Carr",
+      "Nils Jansen",
+      "Sebastian Junges",
+      "Ufuk Topcu"
+    ],
+    "published_date": "2022-04-02T03:51:55Z"
+  },
+  {
+    "title": "Testing the Channels of Convolutional Neural Networks",
+    "summary": "Neural networks have complex structures, and thus it is hard to understand",
+    "paper_id": "http://arxiv.org/abs/2303.03400v1",
+    "authors": [
+      "Kang Choi",
+      "Donghyun Son",
+      "Younghoon Kim",
+      "Jiwon Seo"
+    ],
+    "published_date": "2023-03-06T09:58:39Z"
+  },
+  {
+    "title": "Feature-Space Bayesian Adversarial Learning Improved Malware Detector",
+    "summary": "We present a new algorithm to train a robust malware detector. Modern malware",
+    "paper_id": "http://arxiv.org/abs/2301.12680v1",
+    "authors": [
+      "Bao Gia Doan",
+      "Shuiqiao Yang",
+      "Paul Montague",
+      "Olivier De Vel",
+      "Tamas Abraham",
+      "Seyit Camtepe",
+      "Salil S. Kanhere",
+      "Ehsan Abbasnejad",
+      "Damith C. Ranasinghe"
+    ],
+    "published_date": "2023-01-30T06:00:28Z"
+  },
+  {
+    "title": "Show, Don't Tell: Learning Reward Machines from Demonstrations for",
+    "summary": "An (artificial cardiac) pacemaker is an implantable electronic device that",
+    "paper_id": "http://arxiv.org/abs/2411.01750v1",
+    "authors": [
+      "John Komp",
+      "Dananjay Srinivas",
+      "Maria Pacheco",
+      "Ashutosh Trivedi"
+    ],
+    "published_date": "2024-11-04T02:29:27Z"
+  },
+  {
+    "title": "Similarity Distribution based Membership Inference Attack on Person",
+    "summary": "While person Re-identification (Re-ID) has progressed rapidly due to its wide",
+    "paper_id": "http://arxiv.org/abs/2211.15918v1",
+    "authors": [
+      "Junyao Gao",
+      "Xinyang Jiang",
+      "Huishuai Zhang",
+      "Yifan Yang",
+      "Shuguang Dou",
+      "Dongsheng Li",
+      "Duoqian Miao",
+      "Cheng Deng",
+      "Cairong Zhao"
+    ],
+    "published_date": "2022-11-29T04:17:43Z"
+  },
+  {
+    "title": "Advances In Malware Detection- An Overview",
+    "summary": "Malware has become a widely used means in cyber attacks in recent decades",
+    "paper_id": "http://arxiv.org/abs/2104.01835v2",
+    "authors": [
+      "Heena"
+    ],
+    "published_date": "2021-04-05T10:12:11Z"
+  },
+  {
+    "title": "Contrastive Self-Supervised Learning Leads to Higher Adversarial",
+    "summary": "Contrastive self-supervised learning (CSL) has managed to match or surpass",
+    "paper_id": "http://arxiv.org/abs/2207.10862v2",
+    "authors": [
+      "Rohit Gupta",
+      "Naveed Akhtar",
+      "Ajmal Mian",
+      "Mubarak Shah"
+    ],
+    "published_date": "2022-07-22T03:49:50Z"
+  },
+  {
+    "title": "Enhancing Autonomous Vehicle Perception in Adverse Weather through Image",
+    "summary": "Robust perception is crucial in autonomous vehicle navigation and",
+    "paper_id": "http://arxiv.org/abs/2408.07239v1",
+    "authors": [
+      "Ethan Kou",
+      "Noah Curran"
+    ],
+    "published_date": "2024-08-14T00:08:28Z"
+  },
+  {
+    "title": "Set-Based Training for Neural Network Verification",
+    "summary": "Neural networks are vulnerable to adversarial attacks, i.e., small input",
+    "paper_id": "http://arxiv.org/abs/2401.14961v2",
+    "authors": [
+      "Lukas Koller",
+      "Tobias Ladner",
+      "Matthias Althoff"
+    ],
+    "published_date": "2024-01-26T15:52:41Z"
+  },
+  {
+    "title": "Improving Adversarial Robustness with Self-Paced Hard-Class Pair",
+    "summary": "Deep Neural Networks are vulnerable to adversarial attacks. Among many",
+    "paper_id": "http://arxiv.org/abs/2210.15068v2",
+    "authors": [
+      "Pengyue Hou",
+      "Jie Han",
+      "Xingyu Li"
+    ],
+    "published_date": "2022-10-26T22:51:36Z"
+  },
+  {
+    "title": "Formalising the Robustness of Counterfactual Explanations for Neural",
+    "summary": "The use of counterfactual explanations (CFXs) is an increasingly popular",
+    "paper_id": "http://arxiv.org/abs/2208.14878v3",
+    "authors": [
+      "Junqi Jiang",
+      "Francesco Leofante",
+      "Antonio Rago",
+      "Francesca Toni"
+    ],
+    "published_date": "2022-08-31T14:11:23Z"
+  },
+  {
+    "title": "Calibrating Language Models with Adaptive Temperature Scaling",
+    "summary": "The effectiveness of large language models (LLMs) is not only measured by",
+    "paper_id": "http://arxiv.org/abs/2409.19817v1",
+    "authors": [
+      "Johnathan Xie",
+      "Annie S. Chen",
+      "Yoonho Lee",
+      "Eric Mitchell",
+      "Chelsea Finn"
+    ],
+    "published_date": "2024-09-29T22:54:31Z"
+  },
+  {
+    "title": "Tight Certification of Adversarially Trained Neural Networks via",
+    "summary": "Adversarial training is well-known to produce high-quality neural network",
+    "paper_id": "http://arxiv.org/abs/2211.17244v3",
+    "authors": [
+      "Hong-Ming Chiu",
+      "Richard Y. Zhang"
+    ],
+    "published_date": "2022-11-30T18:46:00Z"
+  },
+  {
+    "title": "Tight Certification of Adversarially Trained Neural Networks via",
+    "summary": "Adversarial training is well-known to produce high-quality neural network",
+    "paper_id": "http://arxiv.org/abs/2211.17244v3",
+    "authors": [
+      "Hong-Ming Chiu",
+      "Richard Y. Zhang"
+    ],
+    "published_date": "2022-11-30T18:46:00Z"
+  },
+  {
+    "title": "Robust adaptive steganography based on dither modulation and",
+    "summary": "Traditional adaptive steganography is a technique used for covert",
+    "paper_id": "http://arxiv.org/abs/2007.08301v2",
+    "authors": [
+      "Zhaoxia Yin",
+      "Longfei Ke"
+    ],
+    "published_date": "2020-07-16T12:41:15Z"
+  },
+  {
+    "title": "Quantization-aware Interval Bound Propagation for Training Certifiably",
+    "summary": "We study the problem of training and certifying adversarially robust",
+    "paper_id": "http://arxiv.org/abs/2211.16187v1",
+    "authors": [
+      "Mathias Lechner",
+      "\u0110or\u0111e \u017dikeli\u0107",
+      "Krishnendu Chatterjee",
+      "Thomas A. Henzinger",
+      "Daniela Rus"
+    ],
+    "published_date": "2022-11-29T13:32:38Z"
+  },
+  {
+    "title": "Revisiting the Importance of Amplifying Bias for Debiasing",
+    "summary": "In image classification, \"debiasing\" aims to train a classifier to be less",
+    "paper_id": "http://arxiv.org/abs/2205.14594v4",
+    "authors": [
+      "Jungsoo Lee",
+      "Jeonghoon Park",
+      "Daeyoung Kim",
+      "Juyoung Lee",
+      "Edward Choi",
+      "Jaegul Choo"
+    ],
+    "published_date": "2022-05-29T07:55:06Z"
+  },
+  {
+    "title": "Rethinking Noisy Label Models: Labeler-Dependent Noise with Adversarial",
+    "summary": "Most studies on learning from noisy labels rely on unrealistic models of",
+    "paper_id": "http://arxiv.org/abs/2105.14083v2",
+    "authors": [
+      "Glenn Dawson",
+      "Robi Polikar"
+    ],
+    "published_date": "2021-05-28T19:58:18Z"
+  },
+  {
+    "title": "A Holistic Approach to Undesired Content Detection in the Real World",
+    "summary": "We present a holistic approach to building a robust and useful natural",
+    "paper_id": "http://arxiv.org/abs/2208.03274v2",
+    "authors": [
+      "Todor Markov",
+      "Chong Zhang",
+      "Sandhini Agarwal",
+      "Tyna Eloundou",
+      "Teddy Lee",
+      "Steven Adler",
+      "Angela Jiang",
+      "Lilian Weng"
+    ],
+    "published_date": "2022-08-05T16:47:23Z"
+  },
+  {
+    "title": "Towards A Unified Policy Abstraction Theory and Representation Learning",
+    "summary": "Lying on the heart of intelligent decision-making systems, how policy is",
+    "paper_id": "http://arxiv.org/abs/2209.07696v1",
+    "authors": [
+      "Min Zhang",
+      "Hongyao Tang",
+      "Jianye Hao",
+      "Yan Zheng"
+    ],
+    "published_date": "2022-09-16T03:41:50Z"
+  },
+  {
+    "title": "Anonymization for Skeleton Action Recognition",
+    "summary": "Skeleton-based action recognition attracts practitioners and researchers due",
+    "paper_id": "http://arxiv.org/abs/2111.15129v3",
+    "authors": [
+      "Saemi Moon",
+      "Myeonghyeon Kim",
+      "Zhenyue Qin",
+      "Yang Liu",
+      "Dongwoo Kim"
+    ],
+    "published_date": "2021-11-30T05:13:20Z"
+  },
+  {
+    "title": "Monitoring Model Deterioration with Explainable Uncertainty Estimation",
+    "summary": "Monitoring machine learning models once they are deployed is challenging. It",
+    "paper_id": "http://arxiv.org/abs/2201.11676v3",
+    "authors": [
+      "Carlos Mougan",
+      "Dan Saattrup Nielsen"
+    ],
+    "published_date": "2022-01-27T17:23:04Z"
+  },
+  {
+    "title": "Certified Policy Smoothing for Cooperative Multi-Agent Reinforcement",
+    "summary": "Cooperative multi-agent reinforcement learning (c-MARL) is widely applied in",
+    "paper_id": "http://arxiv.org/abs/2212.11746v1",
+    "authors": [
+      "Ronghui Mu",
+      "Wenjie Ruan",
+      "Leandro Soriano Marcolino",
+      "Gaojie Jin",
+      "Qiang Ni"
+    ],
+    "published_date": "2022-12-22T14:36:27Z"
+  },
+  {
+    "title": "Safe Reinforcement Learning of Control-Affine Systems with Vertex",
+    "summary": "This paper focuses on finding reinforcement learning policies for control",
+    "paper_id": "http://arxiv.org/abs/2003.09488v1",
+    "authors": [
+      "Liyuan Zheng",
+      "Yuanyuan Shi",
+      "Lillian J. Ratliff",
+      "Baosen Zhang"
+    ],
+    "published_date": "2020-03-20T20:32:20Z"
+  },
+  {
+    "title": "Defending From Physically-Realizable Adversarial Attacks Through",
+    "summary": "This work presents Z-Mask, a robust and effective strategy to improve the",
+    "paper_id": "http://arxiv.org/abs/2203.07341v2",
+    "authors": [
+      "Giulio Rossolini",
+      "Federico Nesti",
+      "Fabio Brau",
+      "Alessandro Biondi",
+      "Giorgio Buttazzo"
+    ],
+    "published_date": "2022-03-14T17:41:46Z"
+  },
+  {
+    "title": "Formally Verified Solution Methods for Infinite-Horizon Markov Decision",
+    "summary": "We formally verify executable algorithms for solving Markov decision",
+    "paper_id": "http://arxiv.org/abs/2206.02169v2",
+    "authors": [
+      "Maximilian Sch\u00e4feller",
+      "Mohammad Abdulaziz"
+    ],
+    "published_date": "2022-06-05T13:03:34Z"
+  },
+  {
+    "title": "Improving Training and Inference of Face Recognition Models via Random",
+    "summary": "Data uncertainty is commonly observed in the images for face recognition",
+    "paper_id": "http://arxiv.org/abs/2212.01015v1",
+    "authors": [
+      "Lei Shang",
+      "Mouxiao Huang",
+      "Wu Shi",
+      "Yuchen Liu",
+      "Yang Liu",
+      "Fei Wang",
+      "Baigui Sun",
+      "Xuansong Xie",
+      "Yu Qiao"
+    ],
+    "published_date": "2022-12-02T08:00:03Z"
+  },
+  {
+    "title": "Task and Model Agnostic Adversarial Attack on Graph Neural Networks",
+    "summary": "Adversarial attacks on Graph Neural Networks (GNNs) reveal their security",
+    "paper_id": "http://arxiv.org/abs/2112.13267v3",
+    "authors": [
+      "Kartik Sharma",
+      "Samidha Verma",
+      "Sourav Medya",
+      "Arnab Bhattacharya",
+      "Sayan Ranu"
+    ],
+    "published_date": "2021-12-25T18:39:21Z"
+  },
+  {
+    "title": "Robust Sequence Networked Submodular Maximization",
+    "summary": "In this paper, we study the \\underline{R}obust \\underline{o}ptimization for",
+    "paper_id": "http://arxiv.org/abs/2212.13725v2",
+    "authors": [
+      "Qihao Shi",
+      "Bingyang Fu",
+      "Can Wang",
+      "Jiawei Chen",
+      "Sheng Zhou",
+      "Yan Feng",
+      "Chun Chen"
+    ],
+    "published_date": "2022-12-28T07:20:03Z"
+  },
+  {
+    "title": "Safe Policy Improvement for POMDPs via Finite-State Controllers",
+    "summary": "We study safe policy improvement (SPI) for partially observable Markov",
+    "paper_id": "http://arxiv.org/abs/2301.04939v1",
+    "authors": [
+      "Thiago D. Sim\u00e3o",
+      "Marnix Suilen",
+      "Nils Jansen"
+    ],
+    "published_date": "2023-01-12T11:22:54Z"
+  },
+  {
+    "title": "STL-Based Synthesis of Feedback Controllers Using Reinforcement Learning",
+    "summary": "Deep Reinforcement Learning (DRL) has the potential to be used for",
+    "paper_id": "http://arxiv.org/abs/2212.01022v1",
+    "authors": [
+      "Nikhil Kumar Singh",
+      "Indranil Saha"
+    ],
+    "published_date": "2022-12-02T08:31:46Z"
+  },
+  {
+    "title": "Robust Proxy: Improving Adversarial Robustness by Robust Proxy Learning",
+    "summary": "Recently, it has been widely known that deep neural networks are highly",
+    "paper_id": "http://arxiv.org/abs/2306.15457v1",
+    "authors": [
+      "Hong Joo Lee",
+      "Yong Man Ro"
+    ],
+    "published_date": "2023-06-27T13:22:19Z"
+  },
+  {
+    "title": "Misspecification in Inverse Reinforcement Learning",
+    "summary": "The aim of Inverse Reinforcement Learning (IRL) is to infer a reward function",
+    "paper_id": "http://arxiv.org/abs/2212.03201v2",
+    "authors": [
+      "Joar Skalse",
+      "Alessandro Abate"
+    ],
+    "published_date": "2022-12-06T18:21:47Z"
+  },
+  {
+    "title": "Minimizing the Negative Side Effects of Planning with Reduced Models",
+    "summary": "Reduced models of large Markov decision processes accelerate planning by",
+    "paper_id": "http://arxiv.org/abs/1905.09355v1",
+    "authors": [
+      "Sandhya Saisubramanian",
+      "Shlomo Zilberstein"
+    ],
+    "published_date": "2019-05-22T20:36:28Z"
+  },
+  {
+    "title": "Toward Robust Uncertainty Estimation with Random Activation Functions",
+    "summary": "Deep neural networks are in the limelight of machine learning with their",
+    "paper_id": "http://arxiv.org/abs/2302.14552v1",
+    "authors": [
+      "Yana Stoyanova",
+      "Soroush Ghandi",
+      "Maryam Tavakol"
+    ],
+    "published_date": "2023-02-28T13:17:56Z"
+  },
+  {
+    "title": "Improving Robust Fairness via Balance Adversarial Training",
+    "summary": "Adversarial training (AT) methods are effective against adversarial attacks,",
+    "paper_id": "http://arxiv.org/abs/2209.07534v1",
+    "authors": [
+      "Chunyu Sun",
+      "Chenye Xu",
+      "Chengyuan Yao",
+      "Siyuan Liang",
+      "Yichao Wu",
+      "Ding Liang",
+      "XiangLong Liu",
+      "Aishan Liu"
+    ],
+    "published_date": "2022-09-15T14:44:48Z"
+  },
+  {
+    "title": "Conflicting Interactions Among Protection Mechanisms for Machine",
+    "summary": "Nowadays, systems based on machine learning (ML) are widely used in different",
+    "paper_id": "http://arxiv.org/abs/2207.01991v3",
+    "authors": [
+      "Sebastian Szyller",
+      "N. Asokan"
+    ],
+    "published_date": "2022-07-05T12:18:06Z"
+  },
+  {
+    "title": "Reachability Verification Based Reliability Assessment for Deep",
+    "summary": "Deep Reinforcement Learning (DRL) has achieved impressive performance in",
+    "paper_id": "http://arxiv.org/abs/2210.14991v2",
+    "authors": [
+      "Yi Dong",
+      "Xingyu Zhao",
+      "Sen Wang",
+      "Xiaowei Huang"
+    ],
+    "published_date": "2022-10-26T19:25:46Z"
+  },
+  {
+    "title": "Towards Verifying the Geometric Robustness of Large-scale Neural",
+    "summary": "Deep neural networks (DNNs) are known to be vulnerable to adversarial",
+    "paper_id": "http://arxiv.org/abs/2301.12456v2",
+    "authors": [
+      "Fu Wang",
+      "Peipei Xu",
+      "Wenjie Ruan",
+      "Xiaowei Huang"
+    ],
+    "published_date": "2023-01-29T14:44:27Z"
+  },
+  {
+    "title": "Revisiting Item Promotion in GNN-based Collaborative Filtering: A Masked",
+    "summary": "Graph neural networks (GNN) based collaborative filtering (CF) have attracted",
+    "paper_id": "http://arxiv.org/abs/2208.09979v1",
+    "authors": [
+      "Yongwei Wang",
+      "Yong Liu",
+      "Zhiqi Shen"
+    ],
+    "published_date": "2022-08-21T22:58:26Z"
+  },
+  {
+    "title": "Bounding the Difference between the Values of Robust and Non-Robust",
+    "summary": "In this note we provide an upper bound for the difference between the value",
+    "paper_id": "http://arxiv.org/abs/2308.05520v2",
+    "authors": [
+      "Ariel Neufeld",
+      "Julian Sester"
+    ],
+    "published_date": "2023-08-10T12:03:37Z"
+  },
+  {
+    "title": "Does Invariant Graph Learning via Environment Augmentation Learn",
+    "summary": "Invariant graph representation learning aims to learn the invariance among",
+    "paper_id": "http://arxiv.org/abs/2310.19035v1",
+    "authors": [
+      "Yongqiang Chen",
+      "Yatao Bian",
+      "Kaiwen Zhou",
+      "Binghui Xie",
+      "Bo Han",
+      "James Cheng"
+    ],
+    "published_date": "2023-10-29T14:57:37Z"
+  },
+  {
+    "title": "HOTCOLD Block: Fooling Thermal Infrared Detectors with a Novel Wearable",
+    "summary": "Adversarial attacks on thermal infrared imaging expose the risk of related",
+    "paper_id": "http://arxiv.org/abs/2212.05709v1",
+    "authors": [
+      "Hui Wei",
+      "Zhixiang Wang",
+      "Xuemei Jia",
+      "Yinqiang Zheng",
+      "Hao Tang",
+      "Shin'ichi Satoh",
+      "Zheng Wang"
+    ],
+    "published_date": "2022-12-12T05:23:11Z"
+  },
+  {
+    "title": "Beyond NaN: Resiliency of Optimization Layers in The Face of",
+    "summary": "Prior work has successfully incorporated optimization layers as the last",
+    "paper_id": "http://arxiv.org/abs/2202.06242v2",
+    "authors": [
+      "Wai Tuck Wong",
+      "Sarah Kinsey",
+      "Ramesha Karunasena",
+      "Thanh Nguyen",
+      "Arunesh Sinha"
+    ],
+    "published_date": "2022-02-13T07:48:35Z"
+  },
+  {
+    "title": "Auditing and Robustifying COVID-19 Misinformation Datasets via",
+    "summary": "This paper makes two key contributions. First, it argues that highly",
+    "paper_id": "http://arxiv.org/abs/2310.07078v1",
+    "authors": [
+      "Clay H. Yoo",
+      "Ashiqur R. KhudaBukhsh"
+    ],
+    "published_date": "2023-08-05T22:38:05Z"
+  },
+  {
+    "title": "Robust Reinforcement Learning with Distributional Risk-averse",
+    "summary": "Robust Reinforcement Learning tries to make predictions more robust to",
+    "paper_id": "http://arxiv.org/abs/2206.06841v1",
+    "authors": [
+      "Pierre Clavier",
+      "St\u00e9phanie Allassoni\u00e8re",
+      "Erwan Le Pennec"
+    ],
+    "published_date": "2022-06-14T13:33:58Z"
+  },
+  {
+    "title": "Polynomial-Time Reachability for LTI Systems with Two-Level Lattice",
+    "summary": "In this paper, we consider the computational complexity of bounding the",
+    "paper_id": "http://arxiv.org/abs/2209.09400v2",
+    "authors": [
+      "James Ferlez",
+      "Yasser Shoukry"
+    ],
+    "published_date": "2022-09-20T01:12:31Z"
+  },
+  {
+    "title": "Identifying Spurious Correlations for Robust Text Classification",
+    "summary": "The predictions of text classifiers are often driven by spurious correlations",
+    "paper_id": "http://arxiv.org/abs/2010.02458v1",
+    "authors": [
+      "Zhao Wang",
+      "Aron Culotta"
+    ],
+    "published_date": "2020-10-06T03:49:22Z"
+  },
+  {
+    "title": "Model-based Bayesian Reinforcement Learning for Dialogue Management",
+    "summary": "Reinforcement learning methods are increasingly used to optimise dialogue",
+    "paper_id": "http://arxiv.org/abs/1304.1819v1",
+    "authors": [
+      "Pierre Lison"
+    ],
+    "published_date": "2013-04-05T20:47:02Z"
+  },
+  {
+    "title": "Rethinking Safe Control in the Presence of Self-Seeking Humans",
+    "summary": "Safe control methods are often intended to behave safely even in worst-case",
+    "paper_id": "http://arxiv.org/abs/2212.00295v2",
+    "authors": [
+      "Zixuan Zhang",
+      "Maitham AL-Sunni",
+      "Haoming Jing",
+      "Hirokazu Shirado",
+      "Yorie Nakahira"
+    ],
+    "published_date": "2022-12-01T05:50:06Z"
+  },
+  {
+    "title": "Rethinking Safe Control in the Presence of Self-Seeking Humans",
+    "summary": "Safe control methods are often intended to behave safely even in worst-case",
+    "paper_id": "http://arxiv.org/abs/2212.00295v2",
+    "authors": [
+      "Zixuan Zhang",
+      "Maitham AL-Sunni",
+      "Haoming Jing",
+      "Hirokazu Shirado",
+      "Yorie Nakahira"
+    ],
+    "published_date": "2022-12-01T05:50:06Z"
+  },
+  {
+    "title": "A Bayesian Spatial Model to Correct Under-Reporting in Urban",
+    "summary": "Decision-makers often observe the occurrence of events through a reporting",
+    "paper_id": "http://arxiv.org/abs/2312.11754v1",
+    "authors": [
+      "Gabriel Agostini",
+      "Emma Pierson",
+      "Nikhil Garg"
+    ],
+    "published_date": "2023-12-18T23:40:56Z"
+  },
+  {
+    "title": "Design of an Efficient, Ease-of-use and Affordable Artificial",
+    "summary": "Current technologies that facilitate diagnosis for simultaneous detection of",
+    "paper_id": "http://arxiv.org/abs/2104.08178v1",
+    "authors": [
+      "Arastu Sharma",
+      "Rakesh Jain"
+    ],
+    "published_date": "2021-04-14T20:32:39Z"
+  },
+  {
+    "title": "Spatial Graph Convolution Neural Networks for Water Distribution Systems",
+    "summary": "We investigate the task of missing value estimation in graphs as given by",
+    "paper_id": "http://arxiv.org/abs/2211.09587v1",
+    "authors": [
+      "Inaam Ashraf",
+      "Luca Hermes",
+      "Andr\u00e9 Artelt",
+      "Barbara Hammer"
+    ],
+    "published_date": "2022-11-17T15:32:11Z"
+  },
+  {
+    "title": "Variations in the Ionospheric Peak Altitude at Mars in Response to Dust",
+    "summary": "Previous observations have shown that, during Martian dust storms, the peak",
+    "paper_id": "http://arxiv.org/abs/1906.07111v3",
+    "authors": [
+      "Z. Girazian",
+      "Z. Luppen",
+      "D. D. Morgan",
+      "F. Chu",
+      "L. Montabone",
+      "E. M. B. Thiemann",
+      "D. A. Gurnett",
+      "J. Halekas",
+      "A. J. Kopf",
+      "F. Nemec"
+    ],
+    "published_date": "2019-06-17T16:25:44Z"
+  },
+  {
+    "title": "Distributed Model Predictive Control for Cooperative Multirotor Landing",
+    "summary": "Heterogeneous autonomous robot teams consisting of multirotor and uncrewed",
+    "paper_id": "http://arxiv.org/abs/2402.10399v1",
+    "authors": [
+      "Jess Stephenson",
+      "Nathan T. Duncan",
+      "Melissa Greeff"
+    ],
+    "published_date": "2024-02-16T01:51:45Z"
+  },
+  {
+    "title": "Referee-Meta-Learning for Fast Adaptation of Locational Fairness",
+    "summary": "When dealing with data from distinct locations, machine learning algorithms",
+    "paper_id": "http://arxiv.org/abs/2402.13379v1",
+    "authors": [
+      "Weiye Chen",
+      "Yiqun Xie",
+      "Xiaowei Jia",
+      "Erhu He",
+      "Han Bao",
+      "Bang An",
+      "Xun Zhou"
+    ],
+    "published_date": "2024-02-20T21:09:04Z"
+  },
+  {
+    "title": "From Artificially Real to Real: Leveraging Pseudo Data from Large",
+    "summary": "Molecule discovery serves as a cornerstone in numerous scientific domains,",
+    "paper_id": "http://arxiv.org/abs/2309.05203v3",
+    "authors": [
+      "Yuhan Chen",
+      "Nuwa Xi",
+      "Yanrui Du",
+      "Haochun Wang",
+      "Jianyu Chen",
+      "Sendong Zhao",
+      "Bing Qin"
+    ],
+    "published_date": "2023-09-11T02:35:36Z"
+  },
+  {
+    "title": "Decline of war or end of positive check? Analysis of change in war size",
+    "summary": "This study examines whether there has been a decline in the risk of death by",
+    "paper_id": "http://arxiv.org/abs/2001.01245v2",
+    "authors": [
+      "Stijn van Weezel"
+    ],
+    "published_date": "2020-01-05T14:26:02Z"
+  },
+  {
+    "title": "Fair Sampling in Diffusion Models through Switching Mechanism",
+    "summary": "Diffusion models have shown their effectiveness in generation tasks by",
+    "paper_id": "http://arxiv.org/abs/2401.03140v5",
+    "authors": [
+      "Yujin Choi",
+      "Jinseong Park",
+      "Hoki Kim",
+      "Jaewook Lee",
+      "Saerom Park"
+    ],
+    "published_date": "2024-01-06T06:55:26Z"
+  },
+  {
+    "title": "Arbitrariness and Social Prediction: The Confounding Role of Variance in",
+    "summary": "Variance in predictions across different trained models is a significant,",
+    "paper_id": "http://arxiv.org/abs/2301.11562v8",
+    "authors": [
+      "A. Feder Cooper",
+      "Katherine Lee",
+      "Madiha Zahrah Choksi",
+      "Solon Barocas",
+      "Christopher De Sa",
+      "James Grimmelmann",
+      "Jon Kleinberg",
+      "Siddhartha Sen",
+      "Baobao Zhang"
+    ],
+    "published_date": "2023-01-27T06:52:04Z"
+  },
+  {
+    "title": "Multi-turn Dialogue Comprehension from a Topic-aware Perspective",
+    "summary": "Dialogue related Machine Reading Comprehension requires language models to",
+    "paper_id": "http://arxiv.org/abs/2309.09666v1",
+    "authors": [
+      "Xinbei Ma",
+      "Yi Xu",
+      "Hai Zhao",
+      "Zhuosheng Zhang"
+    ],
+    "published_date": "2023-09-18T11:03:55Z"
+  },
+  {
+    "title": "Grey-box Bayesian Optimization for Sensor Placement in Assisted Living",
+    "summary": "Optimizing the configuration and placement of sensors is crucial for reliable",
+    "paper_id": "http://arxiv.org/abs/2309.05784v1",
+    "authors": [
+      "Shadan Golestan",
+      "Omid Ardakanian",
+      "Pierre Boulanger"
+    ],
+    "published_date": "2023-09-11T19:31:14Z"
+  },
+  {
+    "title": "Federated Learning via Input-Output Collaborative Distillation",
+    "summary": "Federated learning (FL) is a machine learning paradigm in which distributed",
+    "paper_id": "http://arxiv.org/abs/2312.14478v1",
+    "authors": [
+      "Xuan Gong",
+      "Shanglin Li",
+      "Yuxiang Bao",
+      "Barry Yao",
+      "Yawen Huang",
+      "Ziyan Wu",
+      "Baochang Zhang",
+      "Yefeng Zheng",
+      "David Doermann"
+    ],
+    "published_date": "2023-12-22T07:05:13Z"
+  },
+  {
+    "title": "Many-Objective Pareto Local Search",
+    "summary": "We propose a new Pareto Local Search Algorithm for the many-objective",
+    "paper_id": "http://arxiv.org/abs/1707.07899v2",
+    "authors": [
+      "Andrzej Jaszkiewicz"
+    ],
+    "published_date": "2017-07-25T10:29:04Z"
+  },
+  {
+    "title": "Fair Multivariate Adaptive Regression Splines for Ensuring Equity and",
+    "summary": "Predictive analytics is widely used in various domains, including education,",
+    "paper_id": "http://arxiv.org/abs/2402.15561v1",
+    "authors": [
+      "Parian Haghighat",
+      "Denisa G'andara",
+      "Lulu Kang",
+      "Hadis Anahideh"
+    ],
+    "published_date": "2024-02-23T19:02:24Z"
+  },
+  {
+    "title": "The KL-Divergence between a Graph Model and its Fair I-Projection as a",
+    "summary": "Learning and reasoning over graphs is increasingly done by means of",
+    "paper_id": "http://arxiv.org/abs/2103.01846v2",
+    "authors": [
+      "Maarten Buyl",
+      "Tijl De Bie"
+    ],
+    "published_date": "2021-03-02T16:26:37Z"
+  },
+  {
+    "title": "Long-Term Fair Decision Making through Deep Generative Models",
+    "summary": "This paper studies long-term fair machine learning which aims to mitigate",
+    "paper_id": "http://arxiv.org/abs/2401.11288v1",
+    "authors": [
+      "Yaowei Hu",
+      "Yongkai Wu",
+      "Lu Zhang"
+    ],
+    "published_date": "2024-01-20T17:44:50Z"
+  },
+  {
+    "title": "Where It Really Matters: Few-Shot Environmental Conservation Media",
+    "summary": "Environmental conservation organizations routinely monitor news content on",
+    "paper_id": "http://arxiv.org/abs/2402.11818v1",
+    "authors": [
+      "Sameer Jain",
+      "Sedrick Scott Keh",
+      "Shova Chettri",
+      "Karun Dewan",
+      "Pablo Izquierdo",
+      "Johanna Prussman",
+      "Pooja Shreshtha",
+      "Cesar Suarez",
+      "Zheyuan Ryan Shi",
+      "Lei Li",
+      "Fei Fang"
+    ],
+    "published_date": "2024-02-19T04:17:21Z"
+  },
+  {
+    "title": "Active Reinforcement Learning for Robust Building Control",
+    "summary": "Reinforcement learning (RL) is a powerful tool for optimal control that has",
+    "paper_id": "http://arxiv.org/abs/2312.10289v1",
+    "authors": [
+      "Doseok Jang",
+      "Larry Yan",
+      "Lucas Spangher",
+      "Costas Spanos"
+    ],
+    "published_date": "2023-12-16T02:18:45Z"
+  },
+  {
+    "title": "Automatic pain recognition from Blood Volume Pulse (BVP) signal using",
+    "summary": "Physiological responses to pain have received increasing attention among",
+    "paper_id": "http://arxiv.org/abs/2303.10607v1",
+    "authors": [
+      "Fatemeh Pouromran",
+      "Yingzi Lin",
+      "Sagar Kamarthi"
+    ],
+    "published_date": "2023-03-19T09:03:14Z"
+  },
+  {
+    "title": "Outlier Ranking in Large-Scale Public Health Streams",
+    "summary": "Disease control experts inspect public health data streams daily for outliers",
+    "paper_id": "http://arxiv.org/abs/2401.01459v1",
+    "authors": [
+      "Ananya Joshi",
+      "Tina Townes",
+      "Nolan Gormley",
+      "Luke Neureiter",
+      "Roni Rosenfeld",
+      "Bryan Wilder"
+    ],
+    "published_date": "2024-01-02T23:08:49Z"
+  },
+  {
+    "title": "Deploying ADVISER: Impact and Lessons from Using Artificial Intelligence",
+    "summary": "More than 5 million children under five years die from largely preventable or",
+    "paper_id": "http://arxiv.org/abs/2402.00017v1",
+    "authors": [
+      "Opadele Kehinde",
+      "Ruth Abdul",
+      "Bose Afolabi",
+      "Parminder Vir",
+      "Corinne Namblard",
+      "Ayan Mukhopadhyay",
+      "Abiodun Adereni"
+    ],
+    "published_date": "2023-12-30T21:07:21Z"
+  },
+  {
+    "title": "Vector Field Oriented Diffusion Model for Crystal Material Generation",
+    "summary": "Discovering crystal structures with specific chemical properties has become",
+    "paper_id": "http://arxiv.org/abs/2401.05402v1",
+    "authors": [
+      "Astrid Klipfel",
+      "Ya\u00ebl Fregier",
+      "Adlane Sayede",
+      "Zied Bouraoui"
+    ],
+    "published_date": "2023-12-20T09:55:48Z"
+  },
+  {
+    "title": "Combining Deep Learning and Street View Imagery to Map Smallholder Crop",
+    "summary": "Accurate crop type maps are an essential source of information for monitoring",
+    "paper_id": "http://arxiv.org/abs/2309.05930v2",
+    "authors": [
+      "Jordi Laguarta Soler",
+      "Thomas Friedel",
+      "Sherrie Wang"
+    ],
+    "published_date": "2023-09-12T03:05:06Z"
+  },
+  {
+    "title": "Kernelized Capsule Networks",
+    "summary": "Capsule Networks attempt to represent patterns in images in a way that",
+    "paper_id": "http://arxiv.org/abs/1906.03164v1",
+    "authors": [
+      "Taylor Killian",
+      "Justin Goodwin",
+      "Olivia Brown",
+      "Sung-Hyun Son"
+    ],
+    "published_date": "2019-06-07T15:34:00Z"
+  },
+  {
+    "title": "On the Actionability of Outcome Prediction",
+    "summary": "Predicting future outcomes is a prevalent application of machine learning in",
+    "paper_id": "http://arxiv.org/abs/2309.04470v1",
+    "authors": [
+      "Lydia T. Liu",
+      "Solon Barocas",
+      "Jon Kleinberg",
+      "Karen Levy"
+    ],
+    "published_date": "2023-09-08T17:57:31Z"
+  },
+  {
+    "title": "Bayesian neural networks and dimensionality reduction",
+    "summary": "In conducting non-linear dimensionality reduction and feature learning, it is",
+    "paper_id": "http://arxiv.org/abs/2008.08044v2",
+    "authors": [
+      "Deborshee Sen",
+      "Theodore Papamarkou",
+      "David Dunson"
+    ],
+    "published_date": "2020-08-18T17:11:07Z"
+  },
+  {
+    "title": "Natural Language Processing for the Legal Domain: A Survey of Tasks,",
+    "summary": "Natural Language Processing is revolutionizing the way legal professionals",
+    "paper_id": "http://arxiv.org/abs/2410.21306v1",
+    "authors": [
+      "Farid Ariai",
+      "Gianluca Demartini"
+    ],
+    "published_date": "2024-10-25T01:17:02Z"
+  },
+  {
+    "title": "Promoting Fair Vaccination Strategies Through Influence Maximization: A",
+    "summary": "The aftermath of the Covid-19 pandemic saw more severe outcomes for racial",
+    "paper_id": "http://arxiv.org/abs/2403.05564v1",
+    "authors": [
+      "Nicola Neophytou",
+      "Afaf Ta\u00efk",
+      "Golnoosh Farnadi"
+    ],
+    "published_date": "2024-02-20T20:54:18Z"
+  },
+  {
+    "title": "Discretionary Trees: Understanding Street-Level Bureaucracy via Machine",
+    "summary": "Street-level bureaucrats interact directly with people on behalf of",
+    "paper_id": "http://arxiv.org/abs/2312.10694v1",
+    "authors": [
+      "Gaurab Pokharel",
+      "Sanmay Das",
+      "Patrick J. Fowler"
+    ],
+    "published_date": "2023-12-17T12:08:09Z"
+  },
+  {
+    "title": "Carbon Footprint Reduction for Sustainable Data Centers in Real-Time",
+    "summary": "As machine learning workloads significantly increase energy consumption,",
+    "paper_id": "http://arxiv.org/abs/2403.14092v2",
+    "authors": [
+      "Soumyendu Sarkar",
+      "Avisek Naug",
+      "Ricardo Luna",
+      "Antonio Guillen",
+      "Vineet Gundecha",
+      "Sahand Ghorbanpour",
+      "Sajad Mousavi",
+      "Dejan Markovikj",
+      "Ashwin Ramesh Babu"
+    ],
+    "published_date": "2024-03-21T02:59:56Z"
+  },
+  {
+    "title": "Evaluation Methods and Measures for Causal Learning Algorithms",
+    "summary": "The convenient access to copious multi-faceted data has encouraged machine",
+    "paper_id": "http://arxiv.org/abs/2202.02896v1",
+    "authors": [
+      "Lu Cheng",
+      "Ruocheng Guo",
+      "Raha Moraffah",
+      "Paras Sheth",
+      "K. Selcuk Candan",
+      "Huan Liu"
+    ],
+    "published_date": "2022-02-07T00:24:34Z"
+  },
+  {
+    "title": "Flexible Bayesian Product Mixture Models for Vector Autoregressions",
+    "summary": "Bayesian non-parametric methods based on Dirichlet process mixtures have seen",
+    "paper_id": "http://arxiv.org/abs/2111.08743v2",
+    "authors": [
+      "Suprateek Kundu",
+      "Joshua Lukemire"
+    ],
+    "published_date": "2021-11-16T19:31:37Z"
+  },
+  {
+    "title": "Characterizing Information Seeking Events in Health-Related Social",
+    "summary": "Social media sites have become a popular platform for individuals to seek and",
+    "paper_id": "http://arxiv.org/abs/2308.09156v2",
+    "authors": [
+      "Omar Sharif",
+      "Madhusudan Basak",
+      "Tanzia Parvin",
+      "Ava Scharfstein",
+      "Alphonso Bradham",
+      "Jacob T. Borodovsky",
+      "Sarah E. Lord",
+      "Sarah M. Preum"
+    ],
+    "published_date": "2023-08-17T19:08:42Z"
+  },
+  {
+    "title": "Nowcasting Temporal Trends Using Indirect Surveys",
+    "summary": "Indirect surveys, in which respondents provide information about other people",
+    "paper_id": "http://arxiv.org/abs/2307.06643v2",
+    "authors": [
+      "Ajitesh Srivastava",
+      "Juan Marcos Ram\u00edrez",
+      "Sergio D\u00edaz-Aranda",
+      "Jose Aguilar",
+      "Antonio Ortega",
+      "Antonio Fern\u00e1ndez Anta",
+      "Rosa Elvira Lillo"
+    ],
+    "published_date": "2023-07-13T09:19:54Z"
+  },
+  {
+    "title": "Stable Matchings in Practice: A Constraint Programming Approach",
+    "summary": "We study a practical two-sided matching problem of allocating children to",
+    "paper_id": "http://arxiv.org/abs/2401.07761v1",
+    "authors": [
+      "Zhaohong Sun",
+      "Naoyuki Yamada",
+      "Yoshihiro Takenami",
+      "Daisuke Moriwaki",
+      "Makoto Yokoo"
+    ],
+    "published_date": "2024-01-15T15:14:17Z"
+  },
+  {
+    "title": "Preventing Eviction-Caused Homelessness through ML-Informed Distribution",
+    "summary": "Rental assistance programs provide individuals with financial assistance to",
+    "paper_id": "http://arxiv.org/abs/2403.12599v1",
+    "authors": [
+      "Catalina Vajiac",
+      "Arun Frey",
+      "Joachim Baumann",
+      "Abigail Smith",
+      "Kasun Amarasinghe",
+      "Alice Lai",
+      "Kit Rodolfa",
+      "Rayid Ghani"
+    ],
+    "published_date": "2024-03-19T10:09:41Z"
+  },
+  {
+    "title": "Deep Learning Approach for Early Stage Lung Cancer Detection",
+    "summary": "Lung cancer is the leading cause of death among different types of cancers.",
+    "paper_id": "http://arxiv.org/abs/2302.02456v2",
+    "authors": [
+      "Saleh Abunajm",
+      "Nelly Elsayed",
+      "Zag ElSayed",
+      "Murat Ozer"
+    ],
+    "published_date": "2023-02-05T18:50:12Z"
+  },
+  {
+    "title": "I Open at the Close: A Deep Reinforcement Learning Evaluation of Open",
+    "summary": "The open streets initiative \"opens\" streets to pedestrians and bicyclists by",
+    "paper_id": "http://arxiv.org/abs/2312.07680v1",
+    "authors": [
+      "R. Teal Witter",
+      "Lucas Rosenblatt"
+    ],
+    "published_date": "2023-12-12T19:22:07Z"
+  },
+  {
+    "title": "Harnessing Network Effect for Fake News Mitigation: Selecting Debunkers",
+    "summary": "This study aims to minimize the influence of fake news on social networks by",
+    "paper_id": "http://arxiv.org/abs/2402.03357v1",
+    "authors": [
+      "Xiaofei Xu",
+      "Ke Deng",
+      "Michael Dann",
+      "Xiuzhen Zhang"
+    ],
+    "published_date": "2024-01-28T06:05:01Z"
+  },
+  {
+    "title": "Physics-informed GANs for Coastal Flood Visualization",
+    "summary": "As climate change increases the intensity of natural disasters, society needs",
+    "paper_id": "http://arxiv.org/abs/2010.08103v2",
+    "authors": [
+      "Bj\u00f6rn L\u00fctjens",
+      "Brandon Leshchinskiy",
+      "Christian Requena-Mesa",
+      "Farrukh Chishtie",
+      "Natalia D\u00edaz-Rodriguez",
+      "Oc\u00e9ane Boulais",
+      "Aaron Pi\u00f1a",
+      "Dava Newman",
+      "Alexander Lavin",
+      "Yarin Gal",
+      "Chedy Ra\u00efssi"
+    ],
+    "published_date": "2020-10-16T02:15:34Z"
+  },
+  {
+    "title": "Graph Bayesian Optimization for Multiplex Influence Maximization",
+    "summary": "Influence maximization (IM) is the problem of identifying a limited number of",
+    "paper_id": "http://arxiv.org/abs/2403.18866v1",
+    "authors": [
+      "Zirui Yuan",
+      "Minglai Shao",
+      "Zhiqian Chen"
+    ],
+    "published_date": "2024-03-25T14:50:01Z"
+  },
+  {
+    "title": "Estimating On-road Transportation Carbon Emissions from Open Data of",
+    "summary": "Accounting for over 20% of the total carbon emissions, the precise estimation",
+    "paper_id": "http://arxiv.org/abs/2402.05153v1",
+    "authors": [
+      "Jinwei Zeng",
+      "Yu Liu",
+      "Jingtao Ding",
+      "Jian Yuan",
+      "Yong Li"
+    ],
+    "published_date": "2024-02-07T13:51:33Z"
+  },
+  {
+    "title": "Towards Automatic Boundary Detection for Human-AI Collaborative Hybrid",
+    "summary": "The recent large language models (LLMs), e.g., ChatGPT, have been able to",
+    "paper_id": "http://arxiv.org/abs/2307.12267v6",
+    "authors": [
+      "Zijie Zeng",
+      "Lele Sha",
+      "Yuheng Li",
+      "Kaixun Yang",
+      "Dragan Ga\u0161evi\u0107",
+      "Guanliang Chen"
+    ],
+    "published_date": "2023-07-23T08:47:51Z"
+  },
+  {
+    "title": "Social network analytics for supervised fraud detection in insurance",
+    "summary": "Insurance fraud occurs when policyholders file claims that are exaggerated or",
+    "paper_id": "http://arxiv.org/abs/2009.08313v1",
+    "authors": [
+      "Mar\u00eda \u00d3skarsd\u00f3ttir",
+      "Waqas Ahmed",
+      "Katrien Antonio",
+      "Bart Baesens",
+      "R\u00e9mi Dendievel",
+      "Tom Donas",
+      "Tom Reynkens"
+    ],
+    "published_date": "2020-09-15T21:40:15Z"
+  },
+  {
+    "title": "Causally Aware Generative Adversarial Networks for Light Pollution",
+    "summary": "Artificial light plays an integral role in modern cities, significantly",
+    "paper_id": "http://arxiv.org/abs/2401.06453v1",
+    "authors": [
+      "Yuyao Zhang",
+      "Ke Guo",
+      "Xiao Zhou"
+    ],
+    "published_date": "2024-01-12T08:57:20Z"
+  },
+  {
+    "title": "Bayesian Neighbourhood Component Analysis",
+    "summary": "Learning a good distance metric in feature space potentially improves the",
+    "paper_id": "http://arxiv.org/abs/1604.02354v1",
+    "authors": [
+      "Dong Wang",
+      "Xiaoyang Tan"
+    ],
+    "published_date": "2016-04-08T13:35:03Z"
+  },
+  {
+    "title": "Leveraging Opposite Gender Interaction Ratio as a Path towards Fairness",
+    "summary": "Online dating platforms have gained widespread popularity as a means for",
+    "paper_id": "http://arxiv.org/abs/2402.12541v1",
+    "authors": [
+      "Yuying Zhao",
+      "Yu Wang",
+      "Yi Zhang",
+      "Pamela Wisniewski",
+      "Charu Aggarwal",
+      "Tyler Derr"
+    ],
+    "published_date": "2024-02-19T21:05:55Z"
+  },
+  {
+    "title": "AI-Based Energy Transportation Safety: Pipeline Radial Threat Estimation",
+    "summary": "The application of artificial intelligence technology has greatly enhanced",
+    "paper_id": "http://arxiv.org/abs/2312.11583v2",
+    "authors": [
+      "Chengyuan Zhu",
+      "Yiyuan Yang",
+      "Kaixiang Yang",
+      "Haifeng Zhang",
+      "Qinmin Yang",
+      "C. L. Philip Chen"
+    ],
+    "published_date": "2023-12-18T12:37:35Z"
+  },
+  {
+    "title": "Signal Sets on Time Scales with Application to Hybrid Systems",
+    "summary": "Recently, time scales calculus is developed to unify continuous and discrete",
+    "paper_id": "http://arxiv.org/abs/2011.12558v1",
+    "authors": [
+      "Ti-Chung Lee",
+      "Ying Tan",
+      "Iven Mareels"
+    ],
+    "published_date": "2020-11-25T07:47:24Z"
+  },
+  {
+    "title": "Reinforced Prompt Personalization for Recommendation with Large Language",
+    "summary": "Designing effective prompts can empower LLMs to understand user preferences",
+    "paper_id": "http://arxiv.org/abs/2407.17115v1",
+    "authors": [
+      "Wenyu Mao",
+      "Jiancan Wu",
+      "Weijian Chen",
+      "Chongming Gao",
+      "Xiang Wang",
+      "Xiangnan He"
+    ],
+    "published_date": "2024-07-24T09:24:49Z"
+  },
+  {
+    "title": "Compressive Summarization with Plausibility and Salience Modeling",
+    "summary": "Compressive summarization systems typically rely on a crafted set of",
+    "paper_id": "http://arxiv.org/abs/2010.07886v1",
+    "authors": [
+      "Shrey Desai",
+      "Jiacheng Xu",
+      "Greg Durrett"
+    ],
+    "published_date": "2020-10-15T17:07:10Z"
+  },
+  {
+    "title": "Sharp Thresholds for Constraint Satisfaction Problem and Graph",
+    "summary": "We determine under which conditions certain natural models of random",
+    "paper_id": "http://arxiv.org/abs/math/0612391v1",
+    "authors": [
+      "Hamed Hatami",
+      "Michael Molloy"
+    ],
+    "published_date": "2006-12-14T14:21:22Z"
+  },
+  {
+    "title": "A Partial Taxonomy of Substitutability and Interchangeability",
+    "summary": "Substitutability, interchangeability and related concepts in Constraint",
+    "paper_id": "http://arxiv.org/abs/1010.4609v1",
+    "authors": [
+      "Shant Karakashian",
+      "Robert Woodward",
+      "Berthe Y. Choueiry",
+      "Steven Prestwhich",
+      "Eugene C. Freuder"
+    ],
+    "published_date": "2010-10-22T04:00:00Z"
+  },
+  {
+    "title": "Two Heads Are Better Than One: A Multi-Agent System Has the Potential to",
+    "summary": "The rapid advancement of scientific progress requires innovative tools that",
+    "paper_id": "http://arxiv.org/abs/2410.09403v1",
+    "authors": [
+      "Haoyang Su",
+      "Renqi Chen",
+      "Shixiang Tang",
+      "Xinzhe Zheng",
+      "Jingzhe Li",
+      "Zhenfei Yin",
+      "Wanli Ouyang",
+      "Nanqing Dong"
+    ],
+    "published_date": "2024-10-12T07:16:22Z"
+  },
+  {
+    "title": "Representative Social Choice: From Learning Theory to AI Alignment",
+    "summary": "Social choice theory is the study of preference aggregation across a",
+    "paper_id": "http://arxiv.org/abs/2410.23953v2",
+    "authors": [
+      "Tianyi Qiu"
+    ],
+    "published_date": "2024-10-31T14:07:26Z"
+  },
+  {
+    "title": "Regeneration Learning: A Learning Paradigm for Data Generation",
+    "summary": "Machine learning methods for conditional data generation usually build a",
+    "paper_id": "http://arxiv.org/abs/2301.08846v1",
+    "authors": [
+      "Xu Tan",
+      "Tao Qin",
+      "Jiang Bian",
+      "Tie-Yan Liu",
+      "Yoshua Bengio"
+    ],
+    "published_date": "2023-01-21T01:33:34Z"
+  },
+  {
+    "title": "Signal Sets on Time Scales with Application to Hybrid Systems",
+    "summary": "Recently, time scales calculus is developed to unify continuous and discrete",
+    "paper_id": "http://arxiv.org/abs/2011.12558v1",
+    "authors": [
+      "Ti-Chung Lee",
+      "Ying Tan",
+      "Iven Mareels"
+    ],
+    "published_date": "2020-11-25T07:47:24Z"
+  },
+  {
+    "title": "Fairness Perceptions of Algorithmic Decision-Making: A Systematic Review",
+    "summary": "Algorithmic decision-making (ADM) increasingly shapes people's daily lives.",
+    "paper_id": "http://arxiv.org/abs/2103.12016v1",
+    "authors": [
+      "Christopher Starke",
+      "Janine Baleis",
+      "Birte Keller",
+      "Frank Marcinkowski"
+    ],
+    "published_date": "2021-03-22T17:12:45Z"
+  },
+  {
+    "title": "Signal Sets on Time Scales with Application to Hybrid Systems",
+    "summary": "Recently, time scales calculus is developed to unify continuous and discrete",
+    "paper_id": "http://arxiv.org/abs/2011.12558v1",
+    "authors": [
+      "Ti-Chung Lee",
+      "Ying Tan",
+      "Iven Mareels"
+    ],
+    "published_date": "2020-11-25T07:47:24Z"
+  },
+  {
+    "title": "Temporal Fairness in Multiwinner Voting",
+    "summary": "Multiwinner voting captures a wide variety of settings, from parliamentary",
+    "paper_id": "http://arxiv.org/abs/2312.04417v2",
+    "authors": [
+      "Edith Elkind",
+      "Svetlana Obraztsova",
+      "Nicholas Teh"
+    ],
+    "published_date": "2023-12-07T16:38:32Z"
+  },
+  {
+    "title": "Mixed Fair Division: A Survey",
+    "summary": "Fair division considers the allocation of scarce resources among agents in",
+    "paper_id": "http://arxiv.org/abs/2306.09564v4",
+    "authors": [
+      "Shengxin Liu",
+      "Xinhang Lu",
+      "Mashbat Suzuki",
+      "Toby Walsh"
+    ],
+    "published_date": "2023-06-16T00:51:48Z"
+  },
+  {
+    "title": "Adventures of Trustworthy Vision-Language Models: A Survey",
+    "summary": "Recently, transformers have become incredibly popular in computer vision and",
+    "paper_id": "http://arxiv.org/abs/2312.04231v1",
+    "authors": [
+      "Mayank Vatsa",
+      "Anubhooti Jain",
+      "Richa Singh"
+    ],
+    "published_date": "2023-12-07T11:31:20Z"
+  },
+  {
+    "title": "Beyond teaching methods: highlighting physics faculty's strengths and",
+    "summary": "Much work in physics education research (PER) characterizes faculty teaching",
+    "paper_id": "http://arxiv.org/abs/1912.09586v3",
+    "authors": [
+      "Linda E. Strubbe",
+      "Adrian M. Madsen",
+      "Sarah B. McKagan",
+      "Eleanor C. Sayre"
+    ],
+    "published_date": "2019-12-19T23:05:25Z"
+  },
+  {
+    "title": "Unified Task and Motion Planning using Object-centric Abstractions of",
+    "summary": "In task and motion planning (TAMP), the ambiguity and underdetermination of",
+    "paper_id": "http://arxiv.org/abs/2312.17605v1",
+    "authors": [
+      "Alejandro Agostini",
+      "Justus Piater"
+    ],
+    "published_date": "2023-12-29T14:00:20Z"
+  },
+  {
+    "title": "Group Fairness with Uncertainty in Sensitive Attributes",
+    "summary": "Learning a fair predictive model is crucial to mitigate biased decisions",
+    "paper_id": "http://arxiv.org/abs/2302.08077v2",
+    "authors": [
+      "Abhin Shah",
+      "Maohao Shen",
+      "Jongha Jon Ryu",
+      "Subhro Das",
+      "Prasanna Sattigeri",
+      "Yuheng Bu",
+      "Gregory W. Wornell"
+    ],
+    "published_date": "2023-02-16T04:33:00Z"
+  },
+  {
+    "title": "Dynamic Visual Reasoning by Learning Differentiable Physics Models from",
+    "summary": "In this work, we propose a unified framework, called Visual Reasoning with",
+    "paper_id": "http://arxiv.org/abs/2110.15358v1",
+    "authors": [
+      "Mingyu Ding",
+      "Zhenfang Chen",
+      "Tao Du",
+      "Ping Luo",
+      "Joshua B. Tenenbaum",
+      "Chuang Gan"
+    ],
+    "published_date": "2021-10-28T17:59:13Z"
+  },
+  {
+    "title": "Faithfulness vs. Plausibility: On the (Un)Reliability of Explanations",
+    "summary": "Large Language Models (LLMs) are deployed as powerful tools for several",
+    "paper_id": "http://arxiv.org/abs/2402.04614v3",
+    "authors": [
+      "Chirag Agarwal",
+      "Sree Harsha Tanneru",
+      "Himabindu Lakkaraju"
+    ],
+    "published_date": "2024-02-07T06:32:50Z"
+  },
+  {
+    "title": "Towards Truly Zero-shot Compositional Visual Reasoning with LLMs as",
+    "summary": "Visual reasoning is dominated by end-to-end neural networks scaled to",
+    "paper_id": "http://arxiv.org/abs/2401.01974v2",
+    "authors": [
+      "Aleksandar Stani\u0107",
+      "Sergi Caelles",
+      "Michael Tschannen"
+    ],
+    "published_date": "2024-01-03T20:48:47Z"
+  },
+  {
+    "title": "Online Open World Recognition",
+    "summary": "As we enter into the big data age and an avalanche of images have become",
+    "paper_id": "http://arxiv.org/abs/1604.02275v1",
+    "authors": [
+      "Rocco De Rosa",
+      "Thomas Mensink",
+      "Barbara Caputo"
+    ],
+    "published_date": "2016-04-08T08:43:15Z"
+  },
+  {
+    "title": "Variational Offline Multi-agent Skill Discovery",
+    "summary": "Skills are effective temporal abstractions established for sequential",
+    "paper_id": "http://arxiv.org/abs/2405.16386v2",
+    "authors": [
+      "Jiayu Chen",
+      "Bhargav Ganguly",
+      "Tian Lan",
+      "Vaneet Aggarwal"
+    ],
+    "published_date": "2024-05-26T00:24:46Z"
+  },
+  {
+    "title": "Data-Efficient Policy Evaluation Through Behavior Policy Search",
+    "summary": "We consider the task of evaluating a policy for a Markov decision process",
+    "paper_id": "http://arxiv.org/abs/1706.03469v1",
+    "authors": [
+      "Josiah P. Hanna",
+      "Philip S. Thomas",
+      "Peter Stone",
+      "Scott Niekum"
+    ],
+    "published_date": "2017-06-12T05:19:47Z"
+  },
+  {
+    "title": "Federated Learning in Non-IID Settings Aided by Differentially Private",
+    "summary": "Federated learning (FL) is a privacy-promoting framework that enables",
+    "paper_id": "http://arxiv.org/abs/2206.00686v2",
+    "authors": [
+      "Huancheng Chen",
+      "Haris Vikalo"
+    ],
+    "published_date": "2022-06-01T18:00:48Z"
+  },
+  {
+    "title": "Collective Online Learning of Gaussian Processes in Massive Multi-Agent",
+    "summary": "Distributed machine learning (ML) is a modern computation paradigm that",
+    "paper_id": "http://arxiv.org/abs/1805.09266v2",
+    "authors": [
+      "Trong Nghia Hoang",
+      "Quang Minh Hoang",
+      "Kian Hsiang Low",
+      "Jonathan How"
+    ],
+    "published_date": "2018-05-23T16:26:41Z"
+  },
+  {
+    "title": "Deep Learning Through the Lens of Example Difficulty",
+    "summary": "Existing work on understanding deep learning often employs measures that",
+    "paper_id": "http://arxiv.org/abs/2106.09647v2",
+    "authors": [
+      "Robert J. N. Baldock",
+      "Hartmut Maennel",
+      "Behnam Neyshabur"
+    ],
+    "published_date": "2021-06-17T16:48:12Z"
+  },
+  {
+    "title": "Mathematical Algorithm Design for Deep Learning under Societal and",
+    "summary": "Deep learning still has drawbacks in terms of trustworthiness, which",
+    "paper_id": "http://arxiv.org/abs/2401.10310v1",
+    "authors": [
+      "Holger Boche",
+      "Adalbert Fono",
+      "Gitta Kutyniok"
+    ],
+    "published_date": "2024-01-18T15:32:38Z"
+  },
+  {
+    "title": "On Efficient Training of Large-Scale Deep Learning Models: A Literature",
+    "summary": "The field of deep learning has witnessed significant progress, particularly",
+    "paper_id": "http://arxiv.org/abs/2304.03589v1",
+    "authors": [
+      "Li Shen",
+      "Yan Sun",
+      "Zhiyuan Yu",
+      "Liang Ding",
+      "Xinmei Tian",
+      "Dacheng Tao"
+    ],
+    "published_date": "2023-04-07T11:13:23Z"
+  },
+  {
+    "title": "Vicarious Offense and Noise Audit of Offensive Speech Classifiers:",
+    "summary": "Offensive speech detection is a key component of content moderation. However,",
+    "paper_id": "http://arxiv.org/abs/2301.12534v4",
+    "authors": [
+      "Tharindu Cyril Weerasooriya",
+      "Sujan Dutta",
+      "Tharindu Ranasinghe",
+      "Marcos Zampieri",
+      "Christopher M. Homan",
+      "Ashiqur R. KhudaBukhsh"
+    ],
+    "published_date": "2023-01-29T20:39:21Z"
+  },
+  {
+    "title": "Voice for the Voiceless: Active Sampling to Detect Comments Supporting",
+    "summary": "The Rohingya refugee crisis is one of the biggest humanitarian crises of",
+    "paper_id": "http://arxiv.org/abs/1910.03206v2",
+    "authors": [
+      "Shriphani Palakodety",
+      "Ashiqur R. KhudaBukhsh",
+      "Jaime G. Carbonell"
+    ],
+    "published_date": "2019-10-08T04:17:33Z"
+  },
+  {
+    "title": "Federated Fine-Tuning for Pre-Trained Foundation Models Over Wireless",
+    "summary": "Pre-trained foundation models (FMs), with extensive number of neurons, are",
+    "paper_id": "http://arxiv.org/abs/2407.02924v1",
+    "authors": [
+      "Zixin Wang",
+      "Yong Zhou",
+      "Yuanming Shi",
+      "Khaled. B. Letaief"
+    ],
+    "published_date": "2024-07-03T08:56:24Z"
+  },
+  {
+    "title": "Causal Inference Using Tractable Circuits",
+    "summary": "The aim of this paper is to discuss a recent result which shows that",
+    "paper_id": "http://arxiv.org/abs/2202.02891v1",
+    "authors": [
+      "Adnan Darwiche"
+    ],
+    "published_date": "2022-02-07T00:09:39Z"
+  },
+  {
+    "title": "From Statistical Relational to Neuro-Symbolic Artificial Intelligence",
+    "summary": "Neuro-symbolic and statistical relational artificial intelligence both",
+    "paper_id": "http://arxiv.org/abs/2003.08316v2",
+    "authors": [
+      "Luc De Raedt",
+      "Sebastijan Duman\u010di\u0107",
+      "Robin Manhaeve",
+      "Giuseppe Marra"
+    ],
+    "published_date": "2020-03-18T16:15:46Z"
+  },
+  {
+    "title": "Inverse Concave-Utility Reinforcement Learning is Inverse Game Theory",
+    "summary": "We consider inverse reinforcement learning problems with concave utilities.",
+    "paper_id": "http://arxiv.org/abs/2405.19024v3",
+    "authors": [
+      "Mustafa Mert \u00c7elikok",
+      "Frans A. Oliehoek",
+      "Jan-Willem van de Meent"
+    ],
+    "published_date": "2024-05-29T12:07:17Z"
+  },
+  {
+    "title": "Performance Improvement Bounds for Lipschitz Configurable Markov",
+    "summary": "Configurable Markov Decision Processes (Conf-MDPs) have recently been",
+    "paper_id": "http://arxiv.org/abs/2402.13821v1",
+    "authors": [
+      "Alberto Maria Metelli"
+    ],
+    "published_date": "2024-02-21T13:59:47Z"
+  },
+  {
+    "title": "A geometric framework for outlier detection in high-dimensional data",
+    "summary": "Outlier or anomaly detection is an important task in data analysis. We",
+    "paper_id": "http://arxiv.org/abs/2207.00367v2",
+    "authors": [
+      "Moritz Herrmann",
+      "Florian Pfisterer",
+      "Fabian Scheipl"
+    ],
+    "published_date": "2022-07-01T12:07:51Z"
+  },
+  {
+    "title": "Towards Trustworthy Healthcare AI: Attention-Based Feature Learning for",
+    "summary": "Building AI models with trustworthiness is important especially in regulated",
+    "paper_id": "http://arxiv.org/abs/2207.09312v1",
+    "authors": [
+      "Kai Ma",
+      "Pengcheng Xi",
+      "Karim Habashy",
+      "Ashkan Ebadi",
+      "St\u00e9phane Tremblay",
+      "Alexander Wong"
+    ],
+    "published_date": "2022-07-19T14:55:42Z"
+  },
+  {
+    "title": "On Extensions of CLEVER: A Neural Network Robustness Evaluation",
+    "summary": "CLEVER (Cross-Lipschitz Extreme Value for nEtwork Robustness) is an Extreme",
+    "paper_id": "http://arxiv.org/abs/1810.08640v1",
+    "authors": [
+      "Tsui-Wei Weng",
+      "Huan Zhang",
+      "Pin-Yu Chen",
+      "Aurelie Lozano",
+      "Cho-Jui Hsieh",
+      "Luca Daniel"
+    ],
+    "published_date": "2018-10-19T18:44:58Z"
+  },
+  {
+    "title": "Adaptive Traffic Control with Deep Reinforcement Learning: Towards",
+    "summary": "In this work, we study adaptive data-guided traffic planning and control",
+    "paper_id": "http://arxiv.org/abs/2007.10960v1",
+    "authors": [
+      "Siavash Alemzadeh",
+      "Ramin Moslemi",
+      "Ratnesh Sharma",
+      "Mehran Mesbahi"
+    ],
+    "published_date": "2020-07-21T17:26:20Z"
+  },
+  {
+    "title": "Navigating Fairness: Practitioners' Understanding, Challenges, and",
+    "summary": "The rise in the use of AI/ML applications across industries has sparked more",
+    "paper_id": "http://arxiv.org/abs/2403.15481v2",
+    "authors": [
+      "Aastha Pant",
+      "Rashina Hoda",
+      "Chakkrit Tantithamthavorn",
+      "Burak Turhan"
+    ],
+    "published_date": "2024-03-21T03:44:59Z"
+  },
+  {
+    "title": "Bayes-Optimal Fair Classification with Linear Disparity Constraints via",
+    "summary": "Machine learning algorithms may have disparate impacts on protected groups.",
+    "paper_id": "http://arxiv.org/abs/2402.02817v2",
+    "authors": [
+      "Xianli Zeng",
+      "Guang Cheng",
+      "Edgar Dobriban"
+    ],
+    "published_date": "2024-02-05T08:59:47Z"
+  },
+  {
+    "title": "Mixed Fair Division: A Survey",
+    "summary": "Fair division considers the allocation of scarce resources among agents in",
+    "paper_id": "http://arxiv.org/abs/2306.09564v4",
+    "authors": [
+      "Shengxin Liu",
+      "Xinhang Lu",
+      "Mashbat Suzuki",
+      "Toby Walsh"
+    ],
+    "published_date": "2023-06-16T00:51:48Z"
+  },
+  {
+    "title": "Select and Augment: Enhanced Dense Retrieval Knowledge Graph",
+    "summary": "Injecting textual information into knowledge graph (KG) entity",
+    "paper_id": "http://arxiv.org/abs/2307.15776v2",
+    "authors": [
+      "Micheal Abaho",
+      "Yousef H. Alfaifi"
+    ],
+    "published_date": "2023-07-28T19:33:18Z"
+  },
+  {
+    "title": "Automating Pruning in Top-Down Enumeration for Program Synthesis",
+    "summary": "In top-down enumeration for program synthesis, abstraction-based pruning uses",
+    "paper_id": "http://arxiv.org/abs/2408.15822v1",
+    "authors": [
+      "Keith J. C. Johnson",
+      "Rahul Krishnan",
+      "Thomas Reps",
+      "Loris D'Antoni"
+    ],
+    "published_date": "2024-08-28T14:34:34Z"
+  },
+  {
+    "title": "GreeDy and CoDy: Counterfactual Explainers for Dynamic Graphs",
+    "summary": "Temporal Graph Neural Networks (TGNNs), crucial for modeling dynamic graphs",
+    "paper_id": "http://arxiv.org/abs/2403.16846v1",
+    "authors": [
+      "Zhan Qu",
+      "Daniel Gomm",
+      "Michael F\u00e4rber"
+    ],
+    "published_date": "2024-03-25T15:07:50Z"
+  },
+  {
+    "title": "Mimicking Behaviors in Separated Domains",
+    "summary": "Devising a strategy to make a system mimicking behaviors from another system",
+    "paper_id": "http://arxiv.org/abs/2205.09201v1",
+    "authors": [
+      "Giuseppe De Giacomo",
+      "Dror Fried",
+      "Fabio Patrizi",
+      "Shufang Zhu"
+    ],
+    "published_date": "2022-05-18T20:19:42Z"
+  },
+  {
+    "title": "Counterfactual Explanations for Misclassified Images: How Human and",
+    "summary": "Counterfactual explanations have emerged as a popular solution for the",
+    "paper_id": "http://arxiv.org/abs/2212.08733v1",
+    "authors": [
+      "Eoin Delaney",
+      "Arjun Pakrashi",
+      "Derek Greene",
+      "Mark T. Keane"
+    ],
+    "published_date": "2022-12-16T22:05:38Z"
+  },
+  {
+    "title": "Reasoning about Causality in Games",
+    "summary": "Causal reasoning and game-theoretic reasoning are fundamental topics in",
+    "paper_id": "http://arxiv.org/abs/2301.02324v2",
+    "authors": [
+      "Lewis Hammond",
+      "James Fox",
+      "Tom Everitt",
+      "Ryan Carey",
+      "Alessandro Abate",
+      "Michael Wooldridge"
+    ],
+    "published_date": "2023-01-05T22:47:28Z"
+  },
+  {
+    "title": "A Survey of Learning Criteria Going Beyond the Usual Risk",
+    "summary": "Virtually all machine learning tasks are characterized using some form of",
+    "paper_id": "http://arxiv.org/abs/2110.04996v3",
+    "authors": [
+      "Matthew J. Holland",
+      "Kazuki Tanabe"
+    ],
+    "published_date": "2021-10-11T04:35:33Z"
+  },
+  {
+    "title": "Discovery of Options via Meta-Learned Subgoals",
+    "summary": "Temporal abstractions in the form of options have been shown to help",
+    "paper_id": "http://arxiv.org/abs/2102.06741v1",
+    "authors": [
+      "Vivek Veeriah",
+      "Tom Zahavy",
+      "Matteo Hessel",
+      "Zhongwen Xu",
+      "Junhyuk Oh",
+      "Iurii Kemaev",
+      "Hado van Hasselt",
+      "David Silver",
+      "Satinder Singh"
+    ],
+    "published_date": "2021-02-12T19:50:40Z"
+  },
+  {
+    "title": "Reward (Mis)design for Autonomous Driving",
+    "summary": "This article considers the problem of diagnosing certain common errors in",
+    "paper_id": "http://arxiv.org/abs/2104.13906v2",
+    "authors": [
+      "W. Bradley Knox",
+      "Alessandro Allievi",
+      "Holger Banzhaf",
+      "Felix Schmitt",
+      "Peter Stone"
+    ],
+    "published_date": "2021-04-28T17:41:35Z"
+  },
+  {
+    "title": "The Defeat of the Winograd Schema Challenge",
+    "summary": "The Winograd Schema Challenge - a set of twin sentences involving pronoun",
+    "paper_id": "http://arxiv.org/abs/2201.02387v3",
+    "authors": [
+      "Vid Kocijan",
+      "Ernest Davis",
+      "Thomas Lukasiewicz",
+      "Gary Marcus",
+      "Leora Morgenstern"
+    ],
+    "published_date": "2022-01-07T10:22:08Z"
+  },
+  {
+    "title": "Group Invariance, Stability to Deformations, and Complexity of Deep",
+    "summary": "The success of deep convolutional architectures is often attributed in part",
+    "paper_id": "http://arxiv.org/abs/1706.03078v4",
+    "authors": [
+      "Alberto Bietti",
+      "Julien Mairal"
+    ],
+    "published_date": "2017-06-09T18:02:47Z"
+  },
+  {
+    "title": "Exploiting Action Impact Regularity and Exogenous State Variables for",
+    "summary": "Offline reinforcement learning -- learning a policy from a batch of data --",
+    "paper_id": "http://arxiv.org/abs/2111.08066v5",
+    "authors": [
+      "Vincent Liu",
+      "James R. Wright",
+      "Martha White"
+    ],
+    "published_date": "2021-11-15T20:14:18Z"
+  },
+  {
+    "title": "Introduction to the 26th International Conference on Logic Programming",
+    "summary": "This is the preface to the 26th International Conference on Logic Programming",
+    "paper_id": "http://arxiv.org/abs/1008.1710v1",
+    "authors": [
+      "Manuel Hermenegildo",
+      "Torsten Schaub"
+    ],
+    "published_date": "2010-08-10T13:27:33Z"
+  },
+  {
+    "title": "Scalable Computation of Optimized Queries for Sequential Diagnosis",
+    "summary": "In many model-based diagnosis applications it is impossible to provide such a",
+    "paper_id": "http://arxiv.org/abs/1612.04791v3",
+    "authors": [
+      "Patrick Rodler",
+      "Wolfgang Schmid",
+      "Kostyantyn Shchekotykhin"
+    ],
+    "published_date": "2016-12-14T20:15:36Z"
+  },
+  {
+    "title": "Large Batch Experience Replay",
+    "summary": "Several algorithms have been proposed to sample non-uniformly the replay",
+    "paper_id": "http://arxiv.org/abs/2110.01528v2",
+    "authors": [
+      "Thibault Lahire",
+      "Matthieu Geist",
+      "Emmanuel Rachelson"
+    ],
+    "published_date": "2021-10-04T15:53:13Z"
+  },
+  {
+    "title": "Accurate Parameter Estimation for Risk-aware Autonomous Systems",
+    "summary": "Analysis and synthesis of safety-critical autonomous systems are carried out",
+    "paper_id": "http://arxiv.org/abs/2006.12687v2",
+    "authors": [
+      "Arnab Sarker",
+      "Peter Fisher",
+      "Joseph E. Gaudio",
+      "Anuradha M. Annaswamy"
+    ],
+    "published_date": "2020-06-23T01:20:44Z"
+  },
+  {
+    "title": "MaPPing Your Model: Assessing the Impact of Adversarial Attacks on",
+    "summary": "LLM-based programming assistants offer the promise of programming faster but",
+    "paper_id": "http://arxiv.org/abs/2407.11072v1",
+    "authors": [
+      "John Heibel",
+      "Daniel Lowd"
+    ],
+    "published_date": "2024-07-12T22:30:35Z"
+  },
+  {
+    "title": "Abstract Demonstrations and Adaptive Exploration for Efficient and",
+    "summary": "Although Deep Reinforcement Learning (DRL) has been popular in many",
+    "paper_id": "http://arxiv.org/abs/2207.09243v1",
+    "authors": [
+      "Xintong Yang",
+      "Ze Ji",
+      "Jing Wu",
+      "Yu-kun Lai"
+    ],
+    "published_date": "2022-07-19T12:56:41Z"
+  },
+  {
+    "title": "A Deep Journey into Super-resolution: A survey",
+    "summary": "Deep convolutional networks based super-resolution is a fast-growing field",
+    "paper_id": "http://arxiv.org/abs/1904.07523v3",
+    "authors": [
+      "Saeed Anwar",
+      "Salman Khan",
+      "Nick Barnes"
+    ],
+    "published_date": "2019-04-16T08:08:14Z"
+  },
+  {
+    "title": "Control Design of Autonomous Drone Using Deep Learning Based Image",
+    "summary": "This paper presents a new framework to use images as the inputs for the",
+    "paper_id": "http://arxiv.org/abs/2004.12886v3",
+    "authors": [
+      "Seid Miad Zandavi",
+      "Vera Chung",
+      "Ali Anaissi"
+    ],
+    "published_date": "2020-04-27T15:50:04Z"
+  }
+]
