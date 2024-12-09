@@ -1,6 +1,7 @@
 import os
-import sqlite3
+import sys
 import json
+import sqlite3
 import tempfile
 import streamlit as st
 from langchain_community.document_loaders import TextLoader
@@ -13,6 +14,23 @@ from vertexai.generative_models import GenerativeModel
 from google.oauth2 import service_account
 from google.api_core.exceptions import GoogleAPICallError, NotFound, Forbidden
 
+def get_project_root():
+    """
+    Find the root directory of the project.
+    Assumes the script is running from frontend_ui/ and the project root is two levels up.
+    """
+    current_file = os.path.abspath(__file__)
+    frontend_ui_dir = os.path.dirname(current_file)
+    project_root = os.path.dirname(os.path.dirname(frontend_ui_dir))
+    return project_root
+
+def resolve_path(relative_path):
+    """
+    Resolve a path relative to the project root.
+    """
+    project_root = get_project_root()
+    return os.path.join(project_root, relative_path)
+
 def debug_print(message):
     """Debug print that works in both Streamlit and standard Python environments"""
     print(message)
@@ -21,32 +39,11 @@ def debug_print(message):
     except:
         pass
 
-def download_files_from_bucket(bucket_name, folder_prefix, destination_folder, creds):
-    storage_client = storage.Client(credentials=creds)
-    bucket = storage_client.bucket(bucket_name)
-
-    if not os.path.exists(destination_folder):
-        os.makedirs(destination_folder)
-
-    blobs = bucket.list_blobs(prefix=folder_prefix)
-    file_count = 0
-    for blob in blobs:
-        relative_path = os.path.relpath(blob.name, folder_prefix)
-        local_path = os.path.join(destination_folder, relative_path)
-        local_folder = os.path.dirname(local_path)
-        if not os.path.exists(local_folder):
-            os.makedirs(local_folder)
-        blob.download_to_filename(local_path)
-        debug_print(f"Downloaded {blob.name} to {local_path}")
-        file_count += 1
-    
-    debug_print(f"Total files downloaded: {file_count}")
-    return file_count
-
-def retrieve_metadata(source, metadata_file="arxiv_social_impact_papers.json"):
+def retrieve_metadata(source, metadata_file):
     """Retrieve metadata (title, summary, authors) for a paper from the metadata JSON file."""
     try:
-        with open(metadata_file, "r") as f:
+        debug_print(f"Attempting to read metadata from: {metadata_file}")
+        with open(metadata_file, "r", encoding='utf-8') as f:
             metadata = json.load(f)
 
         for paper in metadata:
@@ -56,11 +53,16 @@ def retrieve_metadata(source, metadata_file="arxiv_social_impact_papers.json"):
         
         debug_print(f"No metadata found for source: {source}")
         return None, None, None, None
+    except FileNotFoundError:
+        debug_print(f"Metadata file not found: {metadata_file}")
+        debug_print(f"Current working directory: {os.getcwd()}")
+        debug_print(f"Resolved metadata file path: {os.path.abspath(metadata_file)}")
+        return None, None, None, None
     except Exception as e:
         debug_print(f"Error retrieving metadata: {e}")
         return None, None, None, None
 
-def retrieve_documents(query, persist_directory, model_name, metadata_file="arxiv_social_impact_papers.json"):
+def retrieve_documents(query, persist_directory, model_name, metadata_file):
     try:
         debug_print(f"Initializing embeddings with model: {model_name}")
         hf = HuggingFaceEmbeddings(model_name=model_name)
@@ -112,6 +114,28 @@ def retrieve_documents(query, persist_directory, model_name, metadata_file="arxi
         import traceback
         debug_print(traceback.format_exc())
         return []
+
+def download_files_from_bucket(bucket_name, folder_prefix, destination_folder, creds):
+    storage_client = storage.Client(credentials=creds)
+    bucket = storage_client.bucket(bucket_name)
+
+    if not os.path.exists(destination_folder):
+        os.makedirs(destination_folder)
+
+    blobs = bucket.list_blobs(prefix=folder_prefix)
+    file_count = 0
+    for blob in blobs:
+        relative_path = os.path.relpath(blob.name, folder_prefix)
+        local_path = os.path.join(destination_folder, relative_path)
+        local_folder = os.path.dirname(local_path)
+        if not os.path.exists(local_folder):
+            os.makedirs(local_folder)
+        blob.download_to_filename(local_path)
+        debug_print(f"Downloaded {blob.name} to {local_path}")
+        file_count += 1
+    
+    debug_print(f"Total files downloaded: {file_count}")
+    return file_count
 
 def rank_and_filter_documents(query, documents, project_id, location, model_endpoint, creds):
     """
@@ -177,29 +201,44 @@ def generate_answer_google(documents, query, project_id, location, model_id, cre
 def main(query):
     # Add error handling and more detailed debugging
     try:
+        # Resolve paths
+        project_root = get_project_root()
+        debug_print(f"Project root directory: {project_root}")
+
+        # Resolve file paths
+        metadata_file = resolve_path('src/perform_rag/arxiv_social_impact_papers.json')
+        destination_folder = resolve_path('paper_vector_db')
+        persist_directory = resolve_path('paper_vector_db_local')
+        
+        # Verify paths
+        debug_print(f"Metadata file path: {metadata_file}")
+        debug_print(f"Destination folder path: {destination_folder}")
+        debug_print(f"Persist directory path: {persist_directory}")
+
+        # Ensure paths exist
+        os.makedirs(destination_folder, exist_ok=True)
+        os.makedirs(persist_directory, exist_ok=True)
+
+        # Verify metadata file exists
+        if not os.path.exists(metadata_file):
+            debug_print(f"ERROR: Metadata file {metadata_file} not found!")
+            return "Metadata file not found. Cannot proceed."
+
         # Load credentials
         debug_print("Loading credentials...")
         info = json.loads(st.secrets['secrets_str_1'])
         info["private_key"] = info["private_key"].replace("\\n", "\n")
         creds = service_account.Credentials.from_service_account_info(info)
         
-        # Download files from bucket
+        # Bucket settings
         bucket_name = 'paper-rec-bucket'
-        destination_folder = 'paper_vector_db'
         folder_prefix = 'paper_vector_db/'
-        persist_directory = 'paper_vector_db/'
         model_name = "sentence-transformers/all-MiniLM-L6-v2"
 
         PROJECT_ID = "ai-research-for-good"
         LOCATION = "us-central1"
         MODEL_ID = "gemini-1.5-flash"
         MODEL_ENDPOINT = "projects/129349313346/locations/us-central1/endpoints/3319822527953371136"
-
-        # Ensure metadata file exists
-        metadata_file = "arxiv_social_impact_papers.json"
-        if not os.path.exists(metadata_file):
-            debug_print(f"ERROR: Metadata file {metadata_file} not found!")
-            return "Metadata file not found. Cannot proceed."
 
         # Download files from bucket
         file_count = download_files_from_bucket(bucket_name, folder_prefix, destination_folder, creds)
