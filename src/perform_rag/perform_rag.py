@@ -52,6 +52,36 @@ def retrieve_documents(query, persist_directory, model_name):
 
     return documents
 
+def rank_and_filter_documents(query, documents, project_id, location, model_endpoint, creds):
+    """
+    Rank and filter documents using the fine-tuned model.
+    """
+    # Use the fine-tuned model's ranking function
+    list_res = []
+    vertexai.init(project=project_id, location=location, credentials=creds)
+    model = GenerativeModel(model_endpoint)
+
+    for doc in documents:
+        Input = f"""You are an expert data annotator who works on a project to connect non-profit users to technological research papers that might be relevant to the non-profit's use case
+        Please rate the following research paper for its relevance to the non-profit's user query. Output "Relevant" if the paper relevant, or "Not Relevant" if the paper is not relevant.
+
+        User query: {query}
+
+        Paper snippet: {doc}
+        """
+
+        response = model.generate_content(
+            Input,
+        )
+        generated_text = response.text
+        if generated_text.lower() == "not relevant":
+            # list_res.append(doc)
+            continue
+        else:
+            list_res.append(doc)
+
+    return list_res
+
 def generate_answer_google(documents, query, project_id, location, model_id, creds):
     documents_combined = "\n\n".join(documents)
     prompt = f"""\nYou are a helpful assistant working for Global Tech Colab For Good, an organization that helps connect non-profit organizations to relevant technical research papers. 
@@ -88,9 +118,9 @@ def main(query):
     
     #info = json.loads(st.secrets)
     #creds = service_account.Credentials.from_service_account_info(secrets_dict)
-    st.write("hello")
+    # st.write("hello")
     info = json.loads(st.secrets['secrets_str_1'])
-    st.write(info)
+    # st.write(info)
     info["private_key"] = info["private_key"].replace("\\n", "\n")
 
 
@@ -106,17 +136,25 @@ def main(query):
     LOCATION = "us-central1"
     MODEL_ID = "gemini-1.5-pro"
     
-
+    TOP_K = 5
+    MODEL_ENDPOINT = (
+        "projects/129349313346/locations/us-central1/endpoints/3319822527953371136"
+    )
     #query = "AI for social impact"
 
     download_files_from_bucket(bucket_name, folder_prefix, destination_folder, creds)
-    st.write(f"Working directory: {os.getcwd()}")
-    st.write("Files in working directory:")
-    st.write(os.listdir('.'))
+    # st.write(f"Working directory: {os.getcwd()}")
+    # st.write("Files in working directory:")
+    # st.write(os.listdir('.'))
 
     documents = retrieve_documents(query, persist_directory, model_name)
     
-    # print(documents)
+    top_documents = rank_and_filter_documents(query, documents, PROJECT_ID, LOCATION, MODEL_ENDPOINT, creds)
+
+    answer = generate_answer_google(
+        top_documents, query, PROJECT_ID, LOCATION, MODEL_ID, creds
+    )
+
     answer = generate_answer_google(documents, query, PROJECT_ID, LOCATION, MODEL_ID, creds)
 
     return answer
