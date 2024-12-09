@@ -15,61 +15,23 @@ from google.cloud import storage
 from google.api_core.exceptions import GoogleAPICallError, NotFound, Forbidden
 
 
-# def download_files_from_bucket(bucket_name, folder_prefix, destination_folder,creds):
-#     storage_client = storage.Client(credentials=creds)
-#     bucket = storage_client.bucket(bucket_name)
+def download_files_from_bucket(bucket_name, folder_prefix, destination_folder,creds):
+    storage_client = storage.Client(credentials=creds)
+    bucket = storage_client.bucket(bucket_name)
 
-#     if not os.path.exists(destination_folder):
-#         os.makedirs(destination_folder)
+    if not os.path.exists(destination_folder):
+        os.makedirs(destination_folder)
 
-#     blobs = bucket.list_blobs(prefix=folder_prefix)
-#     for blob in blobs:
-#         relative_path = os.path.relpath(blob.name, folder_prefix)
-#         local_path = os.path.join(destination_folder, relative_path)
-#         local_folder = os.path.dirname(local_path)
-#         if not os.path.exists(local_folder):
-#             os.makedirs(local_folder)
-#         blob.download_to_filename(local_path)
-#         print(f"Downloaded {blob.name} to {local_path}")
-
-def download_files_from_bucket(bucket_name, folder_prefix, destination_folder, creds):
-    try:
-        # Initialize the storage client with the provided credentials
-        storage_client = storage.Client(credentials=creds)
-        bucket = storage_client.bucket(bucket_name)
-
-        # Create destination folder if it doesn't exist
-        if not os.path.exists(destination_folder):
-            os.makedirs(destination_folder)
-
-        # List and download blobs
-        blobs = bucket.list_blobs(prefix=folder_prefix)
-        for blob in blobs:
-            try:
-                # Create local path
-                relative_path = os.path.relpath(blob.name, folder_prefix)
-                local_path = os.path.join(destination_folder, relative_path)
-                local_folder = os.path.dirname(local_path)
-                if not os.path.exists(local_folder):
-                    os.makedirs(local_folder)
-
-                # Download the blob
-                blob.download_to_filename(local_path)
-                print(f"Downloaded {blob.name} to {local_path}")
-
-            except (GoogleAPICallError, NotFound, Forbidden) as e:
-                print(f"Failed to download {blob.name}: {e}")
-            except Exception as e:
-                print(f"An unexpected error occurred while downloading {blob.name}: {e}")
-
-    except NotFound as e:
-        print(f"Bucket {bucket_name} not found: {e}")
-    except Forbidden as e:
-        print(f"Access denied to bucket {bucket_name}: {e}")
-    except GoogleAPICallError as e:
-        print(f"An error occurred while interacting with Google Cloud Storage: {e}")
-    except Exception as e:
-        print(f"An unexpected error occurred: {e}")
+    blobs = bucket.list_blobs(prefix=folder_prefix)
+    print("Ran this successfully")
+    for blob in blobs:
+        relative_path = os.path.relpath(blob.name, folder_prefix)
+        local_path = os.path.join(destination_folder, relative_path)
+        local_folder = os.path.dirname(local_path)
+        if not os.path.exists(local_folder):
+            os.makedirs(local_folder)
+        blob.download_to_filename(local_path)
+        print(f"Downloaded {blob.name} to {local_path}")
 
 
 def retrieve_documents(query, persist_directory, model_name):
