@@ -1,4 +1,35 @@
+import os, sqlite3
 import json
+import tempfile
+import streamlit as st
+from langchain_community.document_loaders import TextLoader
+from langchain_text_splitters import CharacterTextSplitter
+from langchain_chroma import Chroma
+from langchain_huggingface import HuggingFaceEmbeddings
+from google.cloud import storage
+import vertexai
+from vertexai.generative_models import GenerativeModel
+from google.oauth2 import service_account
+from google.cloud import storage
+from google.api_core.exceptions import GoogleAPICallError, NotFound, Forbidden
+
+
+def download_files_from_bucket(bucket_name, folder_prefix, destination_folder,creds):
+    storage_client = storage.Client(credentials=creds)
+    bucket = storage_client.bucket(bucket_name)
+
+    if not os.path.exists(destination_folder):
+        os.makedirs(destination_folder)
+
+    blobs = bucket.list_blobs(prefix=folder_prefix)
+    for blob in blobs:
+        relative_path = os.path.relpath(blob.name, folder_prefix)
+        local_path = os.path.join(destination_folder, relative_path)
+        local_folder = os.path.dirname(local_path)
+        if not os.path.exists(local_folder):
+            os.makedirs(local_folder)
+        blob.download_to_filename(local_path)
+        print(f"Downloaded {blob.name} to {local_path}")
 
 def retrieve_metadata(source, metadata_file="arxiv_social_impact_papers.json"):
     """Retrieve metadata (title, summary, authors) for a paper from the metadata JSON file."""
