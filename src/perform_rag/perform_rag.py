@@ -23,7 +23,6 @@ def download_files_from_bucket(bucket_name, folder_prefix, destination_folder,cr
         os.makedirs(destination_folder)
 
     blobs = bucket.list_blobs(prefix=folder_prefix)
-    st.write("Ran this successfully")
     for blob in blobs:
         relative_path = os.path.relpath(blob.name, folder_prefix)
         local_path = os.path.join(destination_folder, relative_path)
@@ -31,7 +30,7 @@ def download_files_from_bucket(bucket_name, folder_prefix, destination_folder,cr
         if not os.path.exists(local_folder):
             os.makedirs(local_folder)
         blob.download_to_filename(local_path)
-        st.write(f"Downloaded {blob.name} to {local_path}")
+        print(f"Downloaded {blob.name} to {local_path}")
 
 
 def retrieve_documents(query, persist_directory, model_name):
