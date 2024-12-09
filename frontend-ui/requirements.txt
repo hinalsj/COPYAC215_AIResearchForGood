@@ -6,5 +6,5 @@ vertexai
 streamlit
 chromadb==0.4
 sentence-transformers
-
+streamlit-chromadb-connection
 
