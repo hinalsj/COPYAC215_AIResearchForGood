@@ -115,19 +115,23 @@ def main(query):
     # os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "../../../secrets/ai-research-for-good-b6f4173936f9.json"
     # os.environ["GOOGLE_APPLICATION_CREDENTIALS"] =  st.secrets
 
-    secrets_dict = dict(st.secrets)
+    #secrets_dict = dict(st.secrets)
 
     # Fix formatting for private_key if necessary
-    if "private_key" in secrets_dict:
-        secrets_dict["private_key"] = secrets_dict["private_key"].replace("\\n", "\n")
+    #if "private_key" in secrets_dict:
+        #secrets_dict["private_key"] = secrets_dict["private_key"].replace("\\n", "\n")
     
     # Convert the dictionary to JSON
-    info = json.dumps(secrets_dict, indent=4)
+    #info = json.dumps(secrets_dict, indent=4)
     
     #info = json.loads(st.secrets)
-    creds = service_account.Credentials.from_service_account_info(secrets_dict)
-    st.write(secrets_dict)
-    st.write(creds)
+    #creds = service_account.Credentials.from_service_account_info(secrets_dict)
+    st.write("hello")
+    info = json.loads(st.secrets['secrets_str_1'])
+    st.write(info)
+    creds = service_account.Credentials.from_service_account_info(info)
+    
+    
     
     bucket_name = 'paper-rec-bucket'
     destination_folder = 'paper_vector_db'
