@@ -129,9 +129,9 @@ def main(query):
     st.write("hello")
     info = json.loads(st.secrets['secrets_str_1'])
     st.write(info)
+    info["private_key"] = info["private_key"].replace("\\n", "\n")
+
     creds = service_account.Credentials.from_service_account_info(info)
-    
-    
     
     bucket_name = 'paper-rec-bucket'
     destination_folder = 'paper_vector_db'
